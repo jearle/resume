@@ -10,6 +10,8 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 ### Shopbeam (03/2013 - 03/2014)
 
+#### Senior Software Developer
+
 ## Software Consulting
 
 ## Education
