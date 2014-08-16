@@ -36,7 +36,7 @@ __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, 
 
 #### ICC Lowe Thermal
 
-__Objective-C, Ruby, CoffeeScript, RSpec, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
+__Objective-C, Ruby, CoffeeScript, RSpec, Node.js, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
 
 ## Software Consulting
 
