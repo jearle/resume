@@ -22,6 +22,8 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 #### iOS Development Manager
 
++ Built a content dissemination iOS application and web portal for managing the assets.  The web portal was built as a SPA and was able to utlize the same api calls as the iOS application.
+
 ## Software Consulting
 
 ## Education
