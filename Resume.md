@@ -8,10 +8,10 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 ## Work History
 
+### Shopbeam (March 2013 - )
+
 ## Software Consulting
 
 ## Education
 
 ### Rutgers, The State University of New Jersey - (2006-2010)
-
-Environmental Business & Economics; Computer Science
