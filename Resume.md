@@ -50,8 +50,9 @@ __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
 
-#### Chromecell
+#### Chromecell (09/2009 - 03/2011)
 
++ Built a cell line lineage tracker for the robotics department.
 
 ## Software Consulting
 
