@@ -66,10 +66,12 @@ __Python, wxPython, COM__
 __JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, Jade, Browserify, Gulp, Chai, Live-Reload, Neo4j, D3.js, SoundManager2, Slim, WordPress__
 
 ### People Tools (07/2014 - Present)
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
 
 ### High5Games (03/2014 - Present)
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Building a structured API for filtering, sorting, and searching their game data.
 
@@ -78,30 +80,37 @@ __JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, J
 + Built a framework for serving up ads on their casino pages.
 
 ### Philosophy IB (06/2013 - 09/2013)
+__JavaScript, Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
 
 + Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
 
 ### Her Life, Her Legacy (05/2013 - 07/2013)
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Built a WordPress driven blog and site.
 
 ### Anviro Contractors (04/2013 - 06/2013)
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Built a WordPress driven content management system and site. 
 
 ### Soleil events (08/2012 - 12/2012)
+__JavaScript, PHP, Slim, Bootstrap__
 
 + Built a content management system and website.
 
 ### Jamie Faletti (04/2012 - 06/2012)
+__JavaScript, HTML, CSS__
 
 + Built a website.
 
 ### Enlighten Next (11/2012 - 5/2013)
+__JavaScript, HTML, CSS__
 
 + Built email templates and landing pages.
 
 ### Music Architects (05-2012 - 06/2012)
+__JavaScript, SoundManager2, HTML, CSS__
 
 + Built a dynamic music player UI for the their website.
 
