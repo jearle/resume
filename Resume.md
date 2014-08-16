@@ -87,7 +87,7 @@ __JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, J
 
 ### Anviro Contractors (04/2013 - 06/2013)
 
-+ Built a WordPress driven content management system and site.
++ Built a WordPress driven content management system and site. 
 
 ### Soleil events (08/2012 - 12/2012)
 
@@ -107,4 +107,4 @@ __JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, J
 
 ## Education
 
-### Rutgers, The State University of New Jersey - (2006-2010)
+### Rutgers, The State University of New Jersey (2006-2010)
