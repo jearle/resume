@@ -63,10 +63,19 @@ __Python, wxPython, COM__
 + Built a cell line lineage tracker for the robotics department.
 
 ## Software Consulting
+__JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, Jade, Browserify, Gulp, Chai, Live-Reload, WordPress__
 
 ### People Tools (07/2014 - Present)
 
++ Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
+
 ### High5Games (03/2014 - Present)
+
++ Building a structured API for filtering, sorting, and searching their game data.
+
++ Built a dynamic API driven web UI for filtering, sorting and searching their game data.  The state of the application is persisted within the URL, for easy sharing of search results.
+
++ Built a framework for serving up ads on their casino pages.
 
 ### Philosophy IB (06/2013 - 09/2013)
 
