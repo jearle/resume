@@ -24,7 +24,7 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 
 #### iOS Development Manager
 
-__Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, Padrino, CSS, HAML, MySQL__
+__Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, RSpec, Padrino, CSS, HAML, MySQL__
 
 + Managed small team of developers.
 
@@ -33,6 +33,10 @@ __Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, 
 + Built a content dissemination iOS application and web portal.
 
 + Built a point of sale iOS application and web portal.
+
+#### ICC Lowe Thermal
+
+__Objective-C, Ruby, RSpec, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
 
 ## Software Consulting
 
