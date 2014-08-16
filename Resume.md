@@ -63,7 +63,6 @@ __Python, wxPython, COM__
 + Built a cell line lineage tracker for the robotics department.
 
 ## Software Consulting
-__JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, Jade, Browserify, Gulp, Chai, Live-Reload, Neo4j, D3.js, SoundManager2, Slim, WordPress__
 
 ### People Tools (07/2014 - Present)
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
