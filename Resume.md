@@ -24,7 +24,7 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 
 #### iOS Development Manager
 
-__Objective-C, JavaScript, Node.JS, Express.JS, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, Padrino, CSS, HAML, MySQL__
+__Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, Padrino, CSS, HAML, MySQL__
 
 + Managed small team of developers.
 
