@@ -13,3 +13,5 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 ## Education
 
 ### Rutgers, The State University of New Jersey - (2006-2010)
+
+Environmental Business & Economics; Computer Science
