@@ -16,6 +16,8 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 + Built AWS S3 Node.js module for streaming and storing images on S3.
 
++ Built dynamic router on top of Express.
+
 ## Software Consulting
 
 ## Education
