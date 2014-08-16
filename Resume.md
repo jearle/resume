@@ -52,6 +52,8 @@ __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 #### Chromecell (09/2009 - 03/2011)
 
+__Python, wxPython, COM__
+
 + Built a cell line lineage tracker for the robotics department.
 
 ## Software Consulting
