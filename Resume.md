@@ -64,6 +64,12 @@ __Python, wxPython, COM__
 
 ## Software Consulting
 
+### High5Games
+
+### Philosophy IB
+
+### Music Architects
+
 ## Education
 
 ### Rutgers, The State University of New Jersey - (2006-2010)
