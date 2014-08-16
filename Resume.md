@@ -8,7 +8,7 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 ## Work History
 
-### Shopbeam (March 2013 - )
+### Shopbeam (03/2013 - 03/2014)
 
 ## Software Consulting
 
