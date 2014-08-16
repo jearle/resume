@@ -24,7 +24,7 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 
 #### iOS Development Manager
 
-__Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, RSpec, Padrino, CSS, HAML, MySQL__
+__Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, RSpec, Padrino, CSS, HAML, MySQL__
 
 + Managed small team of developers.
 
@@ -36,7 +36,7 @@ __Objective-C, JavaScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, 
 
 #### ICC Lowe Thermal
 
-__Objective-C, Ruby, RSpec, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
+__Objective-C, Ruby, CoffeeScript, RSpec, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
 
 ## Software Consulting
 
