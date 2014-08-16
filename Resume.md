@@ -12,7 +12,7 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 #### Senior Software Developer
 
-+ Built a realtime, responsive, infinite scrolling dashboard for content publishers.  
++ Built a realtime, responsive, infinite scrolling dashboard for content publishers.  Using simple JSON feeds, infinite scrolling, AngularJS' location provider, and two-way data bindings, we were able to create a context aware desktop like experience.
 
 ## Software Consulting
 
