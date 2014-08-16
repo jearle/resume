@@ -18,6 +18,10 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 + Built dynamic router on top of Express.
 
+### Propeller Communications (08/2012)
+
+#### iOS Development Manager
+
 ## Software Consulting
 
 ## Education
