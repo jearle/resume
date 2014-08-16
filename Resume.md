@@ -24,6 +24,12 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 
 #### iOS Development Manager
 
+__Objective-C, JavaScript, Node.JS, Express.JS, Stylus, Jade, JSON, NGiNX, Redis, MongoDB__
+
++ Managed small team of developers.
+
++ Estimated scope, assigned tasks and consulted with clients.
+
 + Built a content dissemination iOS application and web portal.
 
 + Built a point of sale iOS application and web portal.
