@@ -63,7 +63,7 @@ __Python, wxPython, COM__
 + Built a cell line lineage tracker for the robotics department.
 
 ## Software Consulting
-__JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, Jade, Browserify, Gulp, Chai, Live-Reload, WordPress__
+__JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, Jade, Browserify, Gulp, Chai, Live-Reload, Neo4j, D3.js, SoundManager2, Slim, WordPress__
 
 ### People Tools (07/2014 - Present)
 
@@ -79,15 +79,27 @@ __JavaScript, Python, PHP, Node.js, AngularJS, Django, Express, Mocha, Stylus, J
 
 ### Philosophy IB (06/2013 - 09/2013)
 
++ Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
+
 ### Her Life, Her Legacy (05/2013 - 07/2013)
+
++ Built a WordPress driven blog and site.
 
 ### Soleil events (08/2012 - 12/2012)
 
++ Built a content management system and website.
+
 ### Jamie Faletti (04/2012 - 06/2012)
+
++ Built a website.
 
 ### Enlighten Next (11/2012 - 5/2013)
 
++ Built email templates and landing pages.
+
 ### Music Architects (05-2012 - 06/2012)
+
++ Built a dynamic music player UI for the their website.
 
 ## Education
 
