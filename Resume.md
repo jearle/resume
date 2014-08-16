@@ -36,6 +36,8 @@ __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, 
 
 #### ICC Lowe Thermal (03/2011 - 09/2012)
 
+##### Senior Software Developer
+
 __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.js, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
 
 + Built a targeted content playlist iOS application and web portal.
@@ -46,11 +48,15 @@ __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.j
 
 #### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
 
+##### Software Developer
+
 __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
 
 #### Chromecell (09/2009 - 03/2011)
+
+##### Programmer
 
 __Python, wxPython, COM__
 
