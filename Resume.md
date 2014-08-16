@@ -54,9 +54,9 @@ __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
 
-#### Chromecell (09/2009 - 03/2011)
+### Chromecell (09/2009 - 03/2011)
 
-##### Programmer
+#### Programmer
 
 __Python, wxPython, COM__
 
