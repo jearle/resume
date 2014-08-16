@@ -2,7 +2,7 @@
 
 NYC | earle.jesse@gmail.com
 
-_Software engineer with experience building full stack web applications and native mobile applications with a specialization in service oriented architectures._
+_Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
 Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQL, Git, Bash
 
@@ -22,7 +22,9 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQ
 
 #### iOS Development Manager
 
-+ Built a content dissemination iOS application and web portal for managing the assets.  The web portal was built as a SPA and was able to utlize the same api calls as the iOS application.
++ Built a content dissemination iOS application and web portal.
+
++ Built a point of sale iOS application and web portal.
 
 ## Software Consulting
 
