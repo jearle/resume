@@ -64,11 +64,21 @@ __Python, wxPython, COM__
 
 ## Software Consulting
 
-### High5Games
+### People Tools (07/2014 - Present)
 
-### Philosophy IB
+### High5Games (03/2014 - Present)
 
-### Music Architects
+### Philosophy IB (06/2013 - 09/2013)
+
+### Her Life, Her Legacy (05/2013 - 07/2013)
+
+### Soleil events (08/2012 - 12/2012)
+
+### Jamie Faletti (04/2012 - 06/2012)
+
+### Enlighten Next (11/2012 - 5/2013)
+
+### Music Architects (05-2012 - 06/2012)
 
 ## Education
 
