@@ -69,6 +69,8 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 + Built a WordPress driven blog and site.
 
+***
+
 #### Anviro Contractors (04/2013 - 06/2013)
 
 _Consultant (Development/Project Management/Dev Ops)_
@@ -76,6 +78,8 @@ _Consultant (Development/Project Management/Dev Ops)_
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Built a WordPress driven content management system and site.
+
+***
 
 #### Propeller Communications (09/2012 - 03/2013)
 
@@ -91,6 +95,8 @@ __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, 
 
 + Built a point of sale iOS application and web portal.
 
+***
+
 #### ICC Lowe Thermal (03/2011 - 09/2012)
 
 _Senior Software Developer_
@@ -103,6 +109,8 @@ __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.j
 
 + Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
 
+***
+
 #### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
 
 _Software Developer_
@@ -110,6 +118,8 @@ _Software Developer_
 __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
+
+***
 
 #### Chromecell (09/2009 - 03/2011)
 
@@ -119,6 +129,8 @@ __Python, wxPython, COM__
 
 + Built a cell line lineage tracker for the robotics department.
 
+***
+
 #### Soleil events (08/2012 - 12/2012)
 
 _Development_
@@ -126,6 +138,8 @@ _Development_
 __JavaScript, PHP, Slim, Bootstrap__
 
 + Built a content management system and website.
+
+***
 
 #### Jamie Faletti (04/2012 - 06/2012)
 
@@ -135,6 +149,8 @@ __JavaScript, HTML, CSS__
 
 + Built a website.
 
+***
+
 #### Enlighten Next (11/2012 - 5/2013)
 
 _Development_
@@ -143,6 +159,8 @@ __JavaScript, HTML, CSS__
 
 + Built email templates and landing pages.
 
+***
+
 #### Music Architects (05-2012 - 06/2012)
 
 _Development_
@@ -150,6 +168,8 @@ _Development_
 __JavaScript, SoundManager2, HTML, CSS__
 
 + Built a dynamic music player UI for the their website.
+
+***
 
 # Open Source
 
