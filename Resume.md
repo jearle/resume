@@ -4,9 +4,29 @@ NYC | earle.jesse@gmail.com
 
 _Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
-Skills: Node.js, Express, Angular, JavaScript, Objective-C, CSS, HTML, SQL, NoSQL, Git, Bash
+Skills: Node.js, Express, Angular, JavaScript, Objective-C, Go, C, PHP, Gulp, Browerify, CSS, HTML, SQL, NoSQL, Git, Bash
 
 ## Work History
+
+### People Tools (07/2014 - Present)
+
+#### Consultant (Development/Project Management/Dev Ops)
+
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
+
++ Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
+
+### High5Games (03/2014 - Present)
+
+#### Consultant (Development)
+
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
+
++ Building a structured API for filtering, sorting, and searching their game data.
+
++ Built a dynamic API driven web UI for filtering, sorting and searching their game data.  The state of the application is persisted within the URL, for easy sharing of search results.
+
++ Built a framework for serving up ads on their casino pages.
 
 ### Shopbeam (03/2013 - 03/2014)
 
@@ -19,6 +39,30 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 + Built AWS S3 Node.js module for streaming and storing images on S3.
 
 + Built dynamic router on top of Express.
+
+### Philosophy IB (06/2013 - 09/2013)
+
+#### Consultant (Development/Dev Ops)
+
+__JavaScript, Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
+
++ Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
+
+### Her Life, Her Legacy (05/2013 - 07/2013)
+
+#### Consultant (Development)
+
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
+
++ Built a WordPress driven blog and site.
+
+### Anviro Contractors (04/2013 - 06/2013)
+
+#### Consultant (Development/Project Management/Dev Ops)
+
+__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
+
++ Built a WordPress driven content management system and site.
 
 ### Propeller Communications (09/2012 - 03/2013)
 
@@ -50,6 +94,7 @@ __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.j
 
 #### Software Developer
 
+
 __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
@@ -62,53 +107,34 @@ __Python, wxPython, COM__
 
 + Built a cell line lineage tracker for the robotics department.
 
-## Software Consulting
-
-### People Tools (07/2014 - Present)
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
-
-### High5Games (03/2014 - Present)
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Building a structured API for filtering, sorting, and searching their game data.
-
-+ Built a dynamic API driven web UI for filtering, sorting and searching their game data.  The state of the application is persisted within the URL, for easy sharing of search results.
-
-+ Built a framework for serving up ads on their casino pages.
-
-### Philosophy IB (06/2013 - 09/2013)
-__JavaScript, Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
-
-+ Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
-
-### Her Life, Her Legacy (05/2013 - 07/2013)
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Built a WordPress driven blog and site.
-
-### Anviro Contractors (04/2013 - 06/2013)
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Built a WordPress driven content management system and site. 
-
 ### Soleil events (08/2012 - 12/2012)
+
+#### Development
+
 __JavaScript, PHP, Slim, Bootstrap__
 
 + Built a content management system and website.
 
 ### Jamie Faletti (04/2012 - 06/2012)
+
+#### Development
+
 __JavaScript, HTML, CSS__
 
 + Built a website.
 
 ### Enlighten Next (11/2012 - 5/2013)
+
+#### Development
+
 __JavaScript, HTML, CSS__
 
 + Built email templates and landing pages.
 
 ### Music Architects (05-2012 - 06/2012)
+
+#### Development
+
 __JavaScript, SoundManager2, HTML, CSS__
 
 + Built a dynamic music player UI for the their website.
