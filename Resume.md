@@ -48,7 +48,7 @@ __AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Re
 
 _Philosophy IB (06/2013 - 09/2013)_
 
-__Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
+__AngularJS, Python, Django, D3.js, Neo4j, Bootstrap__
 
 + Built SPA dashboard.
 + Built data visualizations into dashboard. 
