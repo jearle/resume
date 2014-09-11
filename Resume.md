@@ -14,7 +14,7 @@ __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### Consulting 
+#### Consulting (03/2014 - Present)
 
 _People Tools (07/2014 - Present)_
 
@@ -44,25 +44,27 @@ __AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Re
 
 ***
 
-#### Consulting
+#### Consulting (04/2013 - 09/2013)
 
 _Philosophy IB (06/2013 - 09/2013)_
 
 __Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
 
-+ Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
++ Built SPA dashboard.
++ Built data visualizations into dashboard. 
++ Built REST API server.
 
 _Her Life, Her Legacy (05/2013 - 07/2013)_
 
 __WordPress__
 
-+ Built blog and website.
++ Built website.
 
 _Anviro Contractors (04/2013 - 06/2013)_
 
 __Wordpress__
 
-+ Built website
++ Built website.
 
 ***
 
