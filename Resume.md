@@ -35,7 +35,7 @@ __AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
 
 #### Shopbeam (03/2013 - 03/2014)
 
-___Senior Software Developer___
+__ _Senior Software Developer_ __
 
 __AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis__
 
