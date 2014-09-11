@@ -23,9 +23,9 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserif
 
 + Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
 
-### High5Games (03/2014 - Present)
+#### High5Games (03/2014 - Present)
 
-#### Consultant (Development)
+_Consultant (Development)_
 
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
@@ -35,9 +35,9 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 + Built a framework for serving up ads on their casino pages.
 
-### Shopbeam (03/2013 - 03/2014)
+#### Shopbeam (03/2013 - 03/2014)
 
-#### Senior Software Developer
+_Senior Software Developer_
 
 __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequelize, Postgres, Redis__
 
@@ -47,33 +47,33 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 
 + Built dynamic router on top of Express.
 
-### Philosophy IB (06/2013 - 09/2013)
+#### Philosophy IB (06/2013 - 09/2013)
 
-#### Consultant (Development/Dev Ops)
+_Consultant (Development/Dev Ops)_
 
 __JavaScript, Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
 
 + Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
 
-### Her Life, Her Legacy (05/2013 - 07/2013)
+#### Her Life, Her Legacy (05/2013 - 07/2013)
 
-#### Consultant (Development)
+_Consultant (Development)_
 
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Built a WordPress driven blog and site.
 
-### Anviro Contractors (04/2013 - 06/2013)
+#### Anviro Contractors (04/2013 - 06/2013)
 
-#### Consultant (Development/Project Management/Dev Ops)
+_Consultant (Development/Project Management/Dev Ops)_
 
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
 + Built a WordPress driven content management system and site.
 
-### Propeller Communications (09/2012 - 03/2013)
+#### Propeller Communications (09/2012 - 03/2013)
 
-#### iOS Development Manager
+_iOS Development Manager_
 
 __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, RSpec, Padrino, CSS, HAML, MySQL__
 
@@ -85,9 +85,9 @@ __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, 
 
 + Built a point of sale iOS application and web portal.
 
-### ICC Lowe Thermal (03/2011 - 09/2012)
+#### ICC Lowe Thermal (03/2011 - 09/2012)
 
-#### Senior Software Developer
+_Senior Software Developer_
 
 __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.js, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
 
@@ -97,50 +97,49 @@ __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.j
 
 + Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
 
-### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
+#### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
 
-#### Software Developer
-
+_Software Developer_
 
 __JavaScript, Dojo, Java, SpringMVC, Oracle__
 
 + Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
 
-### Chromecell (09/2009 - 03/2011)
+#### Chromecell (09/2009 - 03/2011)
 
-#### Programmer
+_Programmer_
 
 __Python, wxPython, COM__
 
 + Built a cell line lineage tracker for the robotics department.
 
-### Soleil events (08/2012 - 12/2012)
+#### Soleil events (08/2012 - 12/2012)
 
-#### Development
+_Development_
 
 __JavaScript, PHP, Slim, Bootstrap__
 
 + Built a content management system and website.
 
-### Jamie Faletti (04/2012 - 06/2012)
+#### Jamie Faletti (04/2012 - 06/2012)
 
-#### Development
+_Development_
 
 __JavaScript, HTML, CSS__
 
 + Built a website.
 
-### Enlighten Next (11/2012 - 5/2013)
+#### Enlighten Next (11/2012 - 5/2013)
 
-#### Development
+_Development_
 
 __JavaScript, HTML, CSS__
 
 + Built email templates and landing pages.
 
-### Music Architects (05-2012 - 06/2012)
+#### Music Architects (05-2012 - 06/2012)
 
-#### Development
+_Development_
 
 __JavaScript, SoundManager2, HTML, CSS__
 
