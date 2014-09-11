@@ -37,7 +37,7 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 + Built a framework for serving up ads on their casino pages.
 
-***
+---
 
 #### Shopbeam (03/2013 - 03/2014)
 
