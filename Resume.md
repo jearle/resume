@@ -145,32 +145,32 @@ __JavaScript, SoundManager2, HTML, CSS__
 
 + Built a dynamic music player UI for the their website.
 
-## Open Source
+# Open Source
 
-### [Jada](https://github.com/jearle/jada)
+#### [Jada](https://github.com/jearle/jada)
 
 + Jada is a simple, lightweight library for storing data. It does not update localStorage, nor does it provide hooks for syncing data to a server. It simply gets and sets data, and provides hooks for listening to when data has been set both before and after.
 
-### [Learning Programming Through Node.js](https://github.com/jearle/learning-programming-through-nodejs)
+#### [Learning Programming Through Node.js](https://github.com/jearle/learning-programming-through-nodejs)
 
 + This book will teach you how programming can be useful to the non programmer for automating redundancies in your every day life. The tools we will be using are JavaScript and Node.JS
 
-### [Mak Edit](https://github.com/jearle/mak-edit)
+#### [Mak Edit](https://github.com/jearle/mak-edit)
 
 + A simple embeddable widget for writing markdown documents with a live preview for the ouput html.
 
-### [rjson-search](https://github.com/jearle/rjson-search)
+#### [rjson-search](https://github.com/jearle/rjson-search)
 
 + A recursive JSON search for words anywhere within the structure.
 
-### [Jobject](https://github.com/jearle/jobject)
+#### [Jobject](https://github.com/jearle/jobject)
 
 + A class that adds properties to your class that are easily overriden and maintain direct accessors. Similiar to objective-c @property and @synthesize.
 
-### [File Downloader](https://github.com/jearle/file-downloader)
+#### [File Downloader](https://github.com/jearle/file-downloader)
 
 + A simple asynchronous file downloader written in Java.
 
-## Education
+# Education
 
-### Rutgers, The State University of New Jersey (2006-2010)
+#### Rutgers, The State University of New Jersey (2006-2010)
