@@ -12,7 +12,7 @@ __Frameworks__ Angular, Express, Mocha, Chai, Browserify, Gulp, Pg, Mongoose, Co
 
 __Platforms__ Node.js, JVM
 
-__OS__ OSX, Linux (Debian), Windows (7/8)
+__Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
