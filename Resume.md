@@ -137,7 +137,7 @@ _Development_
 
 __JavaScript, PHP, Slim, Bootstrap__
 
-+ Built a content management system and website.
++ Built CMS and website.
 
 ***
 
@@ -147,7 +147,7 @@ _Development_
 
 __JavaScript, HTML, CSS__
 
-+ Built a website.
++ Built website.
 
 ***
 
@@ -157,7 +157,7 @@ _Development_
 
 __JavaScript, HTML, CSS__
 
-+ Built email templates and landing pages.
++ Built templates & website.
 
 ***
 
@@ -167,7 +167,7 @@ _Development_
 
 __JavaScript, SoundManager2, HTML, CSS__
 
-+ Built a dynamic music player UI for the their website.
++ Built music player.
 
 ***
 
