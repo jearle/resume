@@ -6,9 +6,13 @@ _Software engineer with experience building full stack web applications and nati
 
 #### Skills
 
-__Languages__ JavaScript, Objective-C, Java, PHP, Go, C, SQL
+__Languages__ JavaScript, CoffeeScript, Objective-C, Python, Java, PHP, Go, C, Ruby, Bash, SQL, HTML, CSS, Stylus, Jade
 
-Node.js, Express, Angular, JavaScript, Objective-C, Go, C, PHP, Gulp, Browerify, CSS, HTML, SQL, NoSQL, Git, Bash
+__Frameworks__ Angular, Express, Mocha, Chai, Browserify, Gulp, Pg, Mongoose, Cocoa, Bootstrap, Django, Padrino, RoR
+
+__Platforms__ Node.js, JVM
+
+__OS__ OSX, Linux (Debian), Windows (7/8)
 
 # Work History
 
