@@ -23,6 +23,8 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserif
 
 + Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
 
+***
+
 #### High5Games (03/2014 - Present)
 
 _Consultant (Development)_
@@ -35,6 +37,8 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 + Built a framework for serving up ads on their casino pages.
 
+***
+
 #### Shopbeam (03/2013 - 03/2014)
 
 _Senior Software Developer_
@@ -46,6 +50,8 @@ __AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequeliz
 + Built AWS S3 Node.js module for streaming and storing images on S3.
 
 + Built dynamic router on top of Express.
+
+***
 
 #### Philosophy IB (06/2013 - 09/2013)
 
