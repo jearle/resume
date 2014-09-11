@@ -9,8 +9,7 @@ Skills: Node.js, Express, Angular, JavaScript, Objective-C, Go, C, PHP, Gulp, Br
 ## Work History
 
 ### People Tools (07/2014 - Present)
-
-#### _Consultant (Development/Project Management/Dev Ops)_
+_Consultant (Development/Project Management/Dev Ops)_
 
 __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
 
