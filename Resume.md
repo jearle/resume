@@ -6,7 +6,7 @@ _Software engineer with experience building full stack web applications and nati
 
 Skills: Node.js, Express, Angular, JavaScript, Objective-C, Go, C, PHP, Gulp, Browerify, CSS, HTML, SQL, NoSQL, Git, Bash
 
-## Work History
+# Work History
 
 #### People Tools (07/2014 - Present)
 _Consultant (Development/Project Management/Dev Ops)_
