@@ -10,7 +10,7 @@ __Languages__ JavaScript, CoffeeScript, Objective-C, Python, Java, PHP, Go, C, R
 
 __Frameworks__ Angular, Express, Mocha, Chai, Browserify, Gulp, Pg, Mongoose, Cocoa, Bootstrap, Django, Padrino, RoR
 
-__Platforms__ Node.js, JVM
+__Platforms__ Node.js, JVM, WordPress
 
 __Databases__ Postgres, MySql, Mongodb
 
