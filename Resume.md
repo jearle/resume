@@ -132,7 +132,7 @@ _Software Developer_
 
 __Dojo, Java, SpringMVC, Oracle__
 
-+ Built Rutgers' front-end Undergraduate Admission application.
++ Built Rutgers' frontend Undergraduate Admission application.
 
 ***
 
