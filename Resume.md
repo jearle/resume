@@ -23,11 +23,11 @@ __AngularJS, Node.js, Gulp, Browserify, WordPress__
 + Building SOA on top of WordPress JSON API.
 + Building SPA with Angular.
 
-_High5Games (03/2014 - Present)_
+_High5Games (03/2014 - 09/2014)_
 
 __AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
 
-+ Building API for filtering, sorting, and searching game data.
++ Built API for filtering, sorting, and searching game data.
 + Built API driven web UI for filtering, sorting and searching game data.
 + Built UI framework for serving ads.
 
