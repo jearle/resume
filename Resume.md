@@ -5,7 +5,11 @@ NYC | earle.jesse@gmail.com
 _Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
 #### Skills
-Node.js | Express | Angular | JavaScript | Objective-C | Go | C | PHP | Gulp | Browerify | CSS | HTML | SQL | NoSQL | Git | Bash
+
+##### Languages
+JavaScript, Objective-C, Java, PHP, Go, C, SQL
+
+Node.js, Express, Angular, JavaScript, Objective-C, Go, C, PHP, Gulp, Browerify, CSS, HTML, SQL, NoSQL, Git, Bash
 
 # Work History
 
