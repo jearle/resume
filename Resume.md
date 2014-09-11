@@ -173,4 +173,4 @@ __JavaScript, SoundManager2, HTML, CSS__
 
 # Education
 
-#### Rutgers, The State University of New Jersey (2006-2010)
+_Rutgers, The State University of New Jersey (2006-2010)_
