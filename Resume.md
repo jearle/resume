@@ -2,40 +2,34 @@
 
 NYC | earle.jesse@gmail.com
 
-_Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
+_Polyglot Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
-#### Skills
+#### Primary Skills
 
-__Languages__ JavaScript, CoffeeScript, Objective-C, Python, Java, PHP, Go, C, Ruby, Bash, SQL, HTML, CSS, Stylus, Jade
+__Languages__ JavaScript, CSS, HTML, Stylus, Jade
 
-__Frameworks__ Angular, Express, Mocha, Chai, Browserify, Gulp, Pg, Mongoose, Cocoa, Bootstrap, Django, Padrino, RoR
-
-__Platforms__ Node.js, JVM, WordPress
+__Frameworks__ AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
 
 __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### People Tools (07/2014 - Present)
-_Consultant (Development/Project Management/Dev Ops)_
+#### Consulting 
 
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
+_People Tools (07/2014 - Present)_
 
-+ Building a web site with traditional pages, but the content is pulled from a JSON feed, dynamically updating the URL and page.
+__AngularJS, Node.js, Gulp, Browserify, WordPress__
 
-***
++ Building SOA on top of WordPress JSON API.
++ Building SPA with Angular.
 
-#### High5Games (03/2014 - Present)
+_High5Games (03/2014 - Present)_
 
-_Consultant (Development)_
+__AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
 
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Building a structured API for filtering, sorting, and searching their game data.
-
-+ Built a dynamic API driven web UI for filtering, sorting and searching their game data.  The state of the application is persisted within the URL, for easy sharing of search results.
-
-+ Built a framework for serving up ads on their casino pages.
++ Building API for filtering, sorting, and searching game data.
++ Built API driven web UI for filtering, sorting and searching game data.
++ Built UI framework for serving ads.
 
 ***
 
@@ -43,41 +37,32 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 _Senior Software Developer_
 
-__AngularJS, JavaScript, Browserify, Node.JS, Express.JS, Stylus, Jade, Sequelize, Postgres, Redis__
+__AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis__
 
-+ Built a realtime, responsive, infinite scrolling dashboard for content publishers.  Using JSON feeds, infinite scrolling, AngularJS' location provider, and two-way data bindings I was able to create a context aware desktop like experience.
-
++ Built infinite scrolling dashboard for content publishers.
 + Built AWS S3 Node.js module for streaming and storing images on S3.
-
-+ Built dynamic router on top of Express.
 
 ***
 
-#### Philosophy IB (06/2013 - 09/2013)
+#### Consulting
 
-_Consultant (Development/Dev Ops)_
+_Philosophy IB (06/2013 - 09/2013)_
 
-__JavaScript, Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
+__Python, AngularJS, Django, D3.js, Neo4j, Bootstrap__
 
 + Built a dynamic web UI, data visualizations and server using the service-oriented architecture design pattern.
 
-#### Her Life, Her Legacy (05/2013 - 07/2013)
+_Her Life, Her Legacy (05/2013 - 07/2013)_
 
-_Consultant (Development)_
+__WordPress__
 
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
++ Built blog and website.
 
-+ Built a WordPress driven blog and site.
+_Anviro Contractors (04/2013 - 06/2013)_
 
-***
+__Wordpress__
 
-#### Anviro Contractors (04/2013 - 06/2013)
-
-_Consultant (Development/Project Management/Dev Ops)_
-
-__JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Browserify, Stylus, Jade, WordPress, Bootstrap__
-
-+ Built a WordPress driven content management system and site.
++ Built website
 
 ***
 
@@ -85,15 +70,15 @@ __JavaScript, PHP, AngularJS, Node.js, Mocha, Chai, Live-Reload, Gulp, Gulp, Bro
 
 _iOS Development Manager_
 
-__Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, RSpec, Padrino, CSS, HAML, MySQL__
+__Objective-C, Node.JS, Express, Mocha, Stylus, Jade, NGiNX, Redis, MongoDB, Ruby, Padrino, CSS, HAML, MySQL__
 
 + Managed small team of developers.
 
 + Estimated scope, assigned tasks and consulted with clients.
 
-+ Built a content dissemination iOS application and web portal.
++ Built content dissemination iOS application and web portal.
 
-+ Built a point of sale iOS application and web portal.
++ Built point of sale iOS application and web portal.
 
 ***
 
@@ -101,13 +86,41 @@ __Objective-C, JavaScript, CoffeeScript, Node.JS, Express, Mocha, Stylus, Jade, 
 
 _Senior Software Developer_
 
-__Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.js, Express, Ruby on Rails, CSS, HAML, JSON, MySQL__
+__Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JSON, MySQL__
 
-+ Built a targeted content playlist iOS application and web portal.
-
-+ Built a content management iOS application and web portal.
++ Built multiple content dissemination playlist iOS application using Cocoa and MonoTouch.
 
 + Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
+
++ Built multiple websites and e-detailers.
+
+***
+
+#### Consulting
+
+_Soleil events (08/2012 - 12/2012)_
+
+__JavaScript, PHP, Slim, Bootstrap__
+
++ Built CMS and website.
+
+_Jamie Faletti (04/2012 - 06/2012)_
+
+__JavaScript, HTML, CSS__
+
++ Built website.
+
+_Enlighten Next (11/2012 - 5/2013)_
+
+__JavaScript, HTML, CSS__
+
++ Built templates & website.
+
+_Music Architects (05-2012 - 06/2012)_
+
+__JavaScript, SoundManager2, HTML, CSS__
+
++ Built music player.
 
 ***
 
@@ -115,9 +128,9 @@ __Objective-C, Ruby, CoffeeScript, C#, MonoTouch, Surface 2.0 SDK, RSpec, Node.j
 
 _Software Developer_
 
-__JavaScript, Dojo, Java, SpringMVC, Oracle__
+__Dojo, Java, SpringMVC, Oracle__
 
-+ Built a dynamic, persistant, and content aware form input framework for the Undergraduate Admissions Application.
++ Built Rutgers' Undergraduate Admission application.
 
 ***
 
@@ -127,47 +140,7 @@ _Programmer_
 
 __Python, wxPython, COM__
 
-+ Built a cell line lineage tracker for the robotics department.
-
-***
-
-#### Soleil events (08/2012 - 12/2012)
-
-_Development_
-
-__JavaScript, PHP, Slim, Bootstrap__
-
-+ Built CMS and website.
-
-***
-
-#### Jamie Faletti (04/2012 - 06/2012)
-
-_Development_
-
-__JavaScript, HTML, CSS__
-
-+ Built website.
-
-***
-
-#### Enlighten Next (11/2012 - 5/2013)
-
-_Development_
-
-__JavaScript, HTML, CSS__
-
-+ Built templates & website.
-
-***
-
-#### Music Architects (05-2012 - 06/2012)
-
-_Development_
-
-__JavaScript, SoundManager2, HTML, CSS__
-
-+ Built music player.
++ Built cell line lineage tracker for the robotics department.
 
 ***
 
