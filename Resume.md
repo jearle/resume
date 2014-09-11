@@ -2,7 +2,7 @@
 
 NYC | earle.jesse@gmail.com
 
-_Polyglot Software engineer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
+_Polyglot software developer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
 #### Primary Skills
 
