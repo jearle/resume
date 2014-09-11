@@ -102,7 +102,7 @@ __Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JS
 
 _Soleil Events (08/2012 - 12/2012)_
 
-__JavaScript, PHP, Slim, Bootstrap__
+__Slim, Bootstrap__
 
 + Built CMS and website.
 
@@ -120,7 +120,7 @@ __JavaScript, HTML, CSS__
 
 _Music Architects (05/2012 - 06/2012)_
 
-__JavaScript, SoundManager2, HTML, CSS__
+__SoundManager2__
 
 + Built music player.
 
