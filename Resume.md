@@ -150,7 +150,7 @@ __Python, wxPython, COM__
 
 #### [Jada](https://github.com/jearle/jada)
 
-__JavaScript, Node.js, Mocha, Chai__
+__Node.js, Mocha, Chai, Gulp, Browserify__
 
 + Jada is a simple, lightweight library for storing data. It does not update localStorage, nor does it provide hooks for syncing data to a server. It simply gets and sets data, and provides hooks for listening to when data has been set both before and after.
 
@@ -166,7 +166,7 @@ __Angular, Ace, Browserify, Marked__
 
 #### [rjson-search](https://github.com/jearle/rjson-search)
 
-__JavaScript, Node.js, Mocha, Chai__
+__Node.js, Mocha, Chai__
 
 + A recursive JSON search for words anywhere within the structure.
 
