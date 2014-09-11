@@ -175,27 +175,43 @@ __JavaScript, SoundManager2, HTML, CSS__
 
 #### [Jada](https://github.com/jearle/jada)
 
+__JavaScript, Node.js, Mocha, Chai__
+
 + Jada is a simple, lightweight library for storing data. It does not update localStorage, nor does it provide hooks for syncing data to a server. It simply gets and sets data, and provides hooks for listening to when data has been set both before and after.
 
-#### [Learning Programming Through Node.js](https://github.com/jearle/learning-programming-through-nodejs)
-
-+ This book will teach you how programming can be useful to the non programmer for automating redundancies in your every day life. The tools we will be using are JavaScript and Node.JS
+***
 
 #### [Mak Edit](https://github.com/jearle/mak-edit)
 
+__Angular, Ace, Browserify, Marked__
+
 + A simple embeddable widget for writing markdown documents with a live preview for the ouput html.
+
+***
 
 #### [rjson-search](https://github.com/jearle/rjson-search)
 
+__JavaScript, Node.js, Mocha, Chai__
+
 + A recursive JSON search for words anywhere within the structure.
+
+***
 
 #### [Jobject](https://github.com/jearle/jobject)
 
+__CoffeeScript, Mocha, Should__
+
 + A class that adds properties to your class that are easily overriden and maintain direct accessors. Similiar to objective-c @property and @synthesize.
+
+***
 
 #### [File Downloader](https://github.com/jearle/file-downloader)
 
+__Java__
+
 + A simple asynchronous file downloader written in Java.
+
+***
 
 # Education
 
