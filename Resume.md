@@ -4,19 +4,31 @@ NYC | earle.jesse@gmail.com
 
 _Polyglot software developer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
 
-#### Primary Skills
+***
 
-__Languages__ JavaScript, CSS, HTML, Stylus, Jade
+__Languages__ Objective-C, Swift, JavaScript, CSS, HTML, Stylus, Jade
 
-__Frameworks__ AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
+__Frameworks__ ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
 
 __Databases__ Postgres, MySql, Mongodb
 
+***
+
 # Work History
 
-#### Consulting (03/2014 - Present)
+#### MallHawk, Inc (09/2014 - present)
 
-_People Tools (07/2014 - Present)_
+_Software Engineer/Lead iOS Developer_
+
+__ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit__
+
++ Currently building the 1.1 version of I wanna, with a focus on stability and maintainability.
+
+***
+
+#### Consulting (03/2014 - 07/2015)
+
+_People Tools (07/2014 - 07/2015)_
 
 __AngularJS, Node.js, Gulp, Browserify, WordPress__
 
