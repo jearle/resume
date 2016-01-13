@@ -1,12 +1,12 @@
 # Jesse Earle
 
-NYC | earle.jesse@gmail.com
+NYC | earle.jesse@gmail.com | (908) 399 - 1635
 
-_Polyglot software developer with experience building full stack web applications and native mobile applications with a specialization in service-oriented architectures._
+_Polyglot software developer with experience building full stack web applications and native mobile applications specializating in service-oriented architectures and single purpose modules._
 
 ***
 
-__Languages__ Objective-C, Swift, JavaScript, CSS, HTML, Stylus, Jade
+__Languages__ Objective-C, JavaScript, Swift, CSS, HTML, Stylus, Jade
 
 __Frameworks__ ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
 
@@ -38,7 +38,11 @@ _Software Engineer/Lead iOS Developer_
 
 __ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit__
 
-+ Currently building the 1.1 version of I wanna, with a focus on stability and maintainability.
++ Built version 1 of I Wanna, a location based application that suggests where to go and offers discounts at participating vendors along the way.
+
+__Ember, Ember CLI__
+
++ Built version 1 of MallHawk.  A marketplace for local vendors to compete with online retailers in an automated reverse auction.
 
 ***
 
