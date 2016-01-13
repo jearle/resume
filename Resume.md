@@ -16,7 +16,23 @@ __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### MallHawk, Inc (09/2014 - present)
+#### Consulting (09/2015 - Present)
+
+_Goldman Sachs (12/2015 - Present)_
+
+__Gulp__
+
++ Developing a firm wide build tool for their internal frontend JavaScript products.
+
+_Shutterstock (09/2015 - 11/2015)_
+
+__Sinatra, PayPal API__
+
++ Built their internal PayPal Express Payment API for their internal Sinatra based e-commerce REST payment gateway.
+
+***
+
+#### MallHawk, Inc (09/2014 - 09/2015)
 
 _Software Engineer/Lead iOS Developer_
 
@@ -32,8 +48,8 @@ _People Tools (07/2014 - 07/2015)_
 
 __AngularJS, Node.js, Gulp, Browserify, WordPress__
 
-+ Building SOA on top of WordPress JSON API.
-+ Building SPA with Angular.
++ Built SOA on top of WordPress JSON API.
++ Built SPA with Angular to interact with WordPress JSON API.
 
 _High5Games (03/2014 - 09/2014)_
 
