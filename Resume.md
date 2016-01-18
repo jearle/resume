@@ -24,6 +24,8 @@ __Gulp__
 
 + Developing a firm wide build tool for their internal frontend JavaScript products.
 
+#### Consulting
+
 _Shutterstock (09/2015 - 11/2015)_
 
 __Sinatra, PayPal API__
