@@ -28,7 +28,7 @@ _Shutterstock (09/2015 - 11/2015)_
 
 __Sinatra, PayPal API__
 
-+ Built their internal PayPal Express Payment API for their internal Sinatra based e-commerce REST payment gateway.
++ Built their internal PayPal Express Payment API for their Sinatra based e-commerce payment gateway.
 
 ***
 
