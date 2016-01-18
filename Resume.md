@@ -196,13 +196,19 @@ __Python, wxPython, COM__
 
 ### [JETableView](https://github.com/jearle/JETableView)
 
+__Objective-C, UITableView__
+
 + A block based table view for iOS.
 
 ### [Cordova App Skeleton](https://github.com/jearle/cordova-app)
 
+__Cordova, Express, Angular__
+
 + A Cordova App Skeleton used for cross platform Angular 1/Express application development.
 
 ### [Dragonslayer](https://github.com/jearle/dragonslayer)
+
+__Gulp, Babel, Browserify, JSDom, Mocha, ESLint__
 
 + A build tool for cross platform JavaScript development.  Using JSDom, Babel's ES2015 plugin and Browserify I'm able to build, test and lint my JavaScript projects both in the browser and on the server.  This includes running and testing frontend framework code (such as Angular/Ember/React) in the Node.js runtime via JSDom.
 
