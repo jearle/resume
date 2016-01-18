@@ -16,23 +16,7 @@ __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### Consulting (09/2015 - Present)
-
-_Goldman Sachs (12/2015 - Present)_
-
-__Gulp__
-
-+ Developing a firm wide build tool for their internal frontend JavaScript products.
-
-_Shutterstock (09/2015 - 11/2015)_
-
-__Sinatra, PayPal API__
-
-+ Built their internal PayPal Express Payment API for their internal Sinatra based e-commerce REST payment gateway.
-
-***
-
-#### MallHawk, Inc (09/2014 - 09/2015)
+#### MallHawk, Inc (09/2014 - Present)
 
 _Software Engineer/Lead iOS Developer_
 
