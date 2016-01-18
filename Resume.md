@@ -16,7 +16,7 @@ __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### Consulting 12/2015 - Present)
+#### Consulting (12/2015 - Present)
 
 _Goldman Sachs_
 
