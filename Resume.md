@@ -16,7 +16,25 @@ __Databases__ Postgres, MySql, Mongodb
 
 # Work History
 
-#### MallHawk, Inc (09/2014 - Present)
+#### Consulting 12/2015 - Present)
+
+_Goldman Sachs_
+
+__Gulp__
+
++ Developing a firm wide build tool for their internal frontend JavaScript products.
+
+#### Consulting (09/2015 - 11/2015)
+
+_Shutterstock_
+
+__Sinatra, PayPal API__
+
++ Built their internal PayPal Express Payment API for their Sinatra based e-commerce payment gateway.
+
+***
+
+#### MallHawk, Inc (09/2014 - 09/2015)
 
 _Software Engineer/Lead iOS Developer_
 
@@ -30,16 +48,18 @@ __Ember, Ember CLI__
 
 ***
 
-#### Consulting (03/2014 - 07/2015)
+#### Consulting (07/2014 - 07/2015)
 
-_People Tools (07/2014 - 07/2015)_
+_People Tools_
 
 __AngularJS, Node.js, Gulp, Browserify, WordPress__
 
 + Built SOA on top of WordPress JSON API.
 + Built SPA with Angular to interact with WordPress JSON API.
 
-_High5Games (03/2014 - 09/2014)_
+#### Consulting (03/2014 - 09/2014)
+
+_High5Games_
 
 __AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
 
@@ -60,9 +80,9 @@ __AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Re
 
 ***
 
-#### Consulting (04/2013 - 09/2013)
+#### Consulting (06/2013 - 09/2013)
 
-_Philosophy IB (06/2013 - 09/2013)_
+_Philosophy IB_
 
 __AngularJS, Python, Django, D3.js, Neo4j, Bootstrap__
 
@@ -70,13 +90,17 @@ __AngularJS, Python, Django, D3.js, Neo4j, Bootstrap__
 + Built data visualizations into dashboard. 
 + Built REST API server.
 
-_Her Life, Her Legacy (05/2013 - 07/2013)_
+#### Consulting (05/2013 - 07/2013)
+
+_Her Life, Her Legacy_
 
 __WordPress__
 
 + Built website.
 
-_Anviro Contractors (04/2013 - 06/2013)_
+#### Consulting (04/2013 - 06/2013)
+
+_Anviro Contractors_
 
 __Wordpress__
 
@@ -114,27 +138,33 @@ __Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JS
 
 ***
 
-#### Consulting (05/2012 - 12/2012)
+#### Consulting (08/2012 - 12/2012)
 
-_Soleil Events (08/2012 - 12/2012)_
+_Soleil Events_
 
 __Slim, Bootstrap__
 
 + Built CMS and website.
 
-_Jamie Faletti (04/2012 - 06/2012)_
+#### Consulting (04/2012 - 06/2012)
+
+_Jamie Faletti_
 
 __JavaScript, HTML, CSS__
 
 + Built website.
 
-_Enlighten Next (11/2012 - 5/2013)_
+#### Consulting (11/2012 - 5/2013)
+
+_Enlighten Next_
 
 __JavaScript, HTML, CSS__
 
 + Built templates & website.
 
-_Music Architects (05/2012 - 06/2012)_
+#### Consulting (05/2012 - 06/2012)
+
+_Music Architects_
 
 __SoundManager2__
 
@@ -163,6 +193,18 @@ __Python, wxPython, COM__
 ***
 
 # Open Source
+
+### [JETableView](https://github.com/jearle/JETableView)
+
++ A block based table view for iOS.
+
+### [Cordova App Skeleton](https://github.com/jearle/cordova-app)
+
++ A Cordova App Skeleton used for cross platform Angular 1/Express application development.
+
+### [Dragonslayer](https://github.com/jearle/dragonslayer)
+
++ A build tool for cross platform JavaScript development.  Using JSDom, Babel's ES2015 plugin and Browserify I'm able to build, test and lint my JavaScript projects both in the browser and on the server.  This includes running and testing frontend framework code (such as Angular/Ember/React) in the Node.js runtime via JSDom.
 
 #### [Jada](https://github.com/jearle/jada)
 
