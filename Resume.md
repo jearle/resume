@@ -2,21 +2,37 @@
 
 NYC | earle.jesse@gmail.com | (908) 399 - 1635
 
-_Polyglot software developer with experience building full stack web applications and native mobile applications specializating in service-oriented architectures and single purpose modules._
+_Polyglot software developer with experience building full stack web applications and native mobile applications._
 
 ***
 
-__Languages__ Objective-C, JavaScript, Swift, CSS, HTML, Stylus, Jade
+__Languages__ Swift, JavaScript (ES6/JSX), Objective-C
 
-__Frameworks__ ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
+__Frameworks__ React, Redux, GraphQL, OAuth2.0, Webpack, Babel, ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
 
-__Databases__ Postgres, MySql, Mongodb
+__Databases__ Postgres, MySql
 
 ***
 
 # Work History
 
-#### Consulting (12/2015 - Present)
+### Swett (08/2015 - Present)
+
+_Software Engineer_
+
+__Swift, OAuth2.0, Node.js, Sequelize, Postgresql, Estimote__
+
++ Building an automated exercise tracking application that links to beacons within close proximity of the exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
+
+### Yieldmo (02/2016 - Present)
+
+_Software Engineer_
+
+__Node.js, React, Redux, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, ESLint, Karma, OAuth2.0__
+
++ Built internal fullstack web application using Node.js/GraphQL and React/Redux to manage and generate ad creatives that are deployed on Google's DFP (Double Click for Publishers).
+
+#### Consulting (12/2015 - 02/2015)
 
 _Goldman Sachs_
 
