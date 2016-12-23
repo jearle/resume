@@ -8,9 +8,9 @@ _Polyglot software developer with experience building full stack web application
 
 __Languages__ Swift, JavaScript (ES6/JSX), Objective-C
 
-__Frameworks__ React, Redux, GraphQL, OAuth2.0, Webpack, Babel, ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, AngularJS, Node.js, Express, Mocha, Chai, Browserify, Gulp
+__Frameworks__ React, Redux, GraphQL, OAuth2.0, Webpack, Babel, ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Node.js, Express, Mocha, Chai
 
-__Databases__ Postgres, MySql
+__Databases__ PostgreSQL
 
 ***
 
@@ -20,9 +20,9 @@ __Databases__ Postgres, MySql
 
 _Software Engineer_
 
-__Swift, OAuth2.0, Node.js, Sequelize, Postgresql, Estimote__
+__Swift, OAuth2.0, Node.js, Express, Sequelize, PostgreSQL, Estimote__
 
-+ Building an automated exercise tracking application that links to beacons within close proximity of the exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
++ Building an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
 
 ### Yieldmo (02/2016 - Present)
 
