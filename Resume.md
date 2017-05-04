@@ -16,9 +16,9 @@ __Databases__ PostgreSQL, Firebase
 
 # Work History
 
-### Yieldmo (02/2016 - Present)
+### Yieldmo (02/2016 - 05/2017)
 
-_Software Engineer_
+_Senior Software Engineer_
 
 __React, Redux, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0__
 
@@ -28,7 +28,7 @@ __React, Redux, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, 
 
 ### Swett (08/2015 - 02/2017)
 
-_Software Engineer_
+_Senior Software Engineer_
 
 __Swift, OAuth2.0, Node.js, Express, Sequelize, PostgreSQL, Estimote__
 
@@ -38,7 +38,7 @@ __Swift, OAuth2.0, Node.js, Express, Sequelize, PostgreSQL, Estimote__
 
 #### MallHawk, Inc (09/2014 - 09/2015)
 
-_Software Engineer/Lead iOS Developer_
+_Senior Frontend Software Engineer_
 
 __ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit__
 
