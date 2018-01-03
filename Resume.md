@@ -131,4 +131,4 @@ __Python, wxPython, COM__
 
 # Education
 
-_Rutgers, The State University of New Jersey (2006-2010)_
+_Rutgers, The State University of New Jersey, Dropped Out (2006-2010)_
