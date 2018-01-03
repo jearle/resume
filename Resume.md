@@ -8,35 +8,57 @@ _Polyglot software developer with experience building full stack web application
 
 __Languages__ JavaScript (ES6/JSX), Swift, Objective-C
 
-__Frameworks__ React, Redux, GraphQL, OAuth2.0, Webpack, Babel, Alamofire, PromiseKit, Node.js, Express, Mocha, Chai
+__Frameworks__ React, React Native, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babel, Node.js, Express, Mocha, Chai
 
 __Databases__ PostgreSQL, Firebase
+
+__Tools__ Docker
 
 ***
 
 # Work History
 
+### OkCupid (06/2017 - Present)
+
+_Senior Engineer_
+
+__React, Redux Thunk, Node.js, Sass, Pub, Docker__
+
++ Built administrative web portal for moderators to view fake profiles and abusive messages between users.
+
++ Built server side rendering service for React applications.
+
++ Built payment frontend/integration with backend API.
+
+***
+
+### Swett/Pineaapl.io (08/2015 - 12/2017)
+
+_Co-Founder/Developer_
+
+__Swift, OAuth2.0, Node.js, Express, Sequelize, Docker, PostgreSQL, Estimote__
+
++ Built an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
+
+__Firebase, React, Redux, Redux Sagas, Reselect, Styled Components, React Router, React Native, Chart.js, Docker__
+
++ Built analytics system that gathered feedback from customers at checkout on various metrics such as service/speed/quality in real time.
+
++ Built dashboard for analyzing and displaying gathered customer ratings.  The dashboard provided visuals for hourly, daily, weekly, and monthly breakdowns of rating to pinpoint problematic locations and hours all in real time.
+
+***
+
 ### Yieldmo (02/2016 - 05/2017)
 
 _Senior Software Engineer_
 
-__React, Redux, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0__
+__React, React Router, Redux, Docker, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0__
 
 + Built internal fullstack web application using Node.js/GraphQL and React/Redux to manage and generate ad creatives that are deployed on Google's DFP (Double Click for Publishers).
 
 ***
 
-### Swett (08/2015 - 02/2017)
-
-_Senior Software Engineer_
-
-__Swift, OAuth2.0, Node.js, Express, Sequelize, PostgreSQL, Estimote__
-
-+ Built an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
-
-***
-
-#### MallHawk, Inc (09/2014 - 09/2015)
+### MallHawk, Inc (09/2014 - 09/2015)
 
 _Senior Frontend Software Engineer_
 
@@ -50,7 +72,7 @@ __Ember, Ember CLI__
 
 ***
 
-#### Consulting (03/2014 - 09/2014)
+### Consulting (03/2014 - 09/2014)
 
 _High5Games_
 
@@ -62,7 +84,7 @@ __AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
 
 ***
 
-#### Shopbeam (03/2013 - 03/2014)
+### Shopbeam (03/2013 - 03/2014)
 
 _Senior Software Developer_
 
@@ -73,7 +95,7 @@ __AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Re
 
 ***
 
-#### ICC Lowe Thermal (03/2011 - 09/2012)
+### ICC Lowe Thermal (03/2011 - 09/2012)
 
 _Senior Software Developer_
 
@@ -87,7 +109,7 @@ __Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JS
 
 ***
 
-#### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
+### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
 
 _Software Developer_
 
@@ -97,7 +119,7 @@ __Dojo, Java, SpringMVC, Oracle__
 
 ***
 
-#### Chromecell (09/2009 - 03/2011)
+### Chromecell (09/2009 - 03/2011)
 
 _Programmer_
 
