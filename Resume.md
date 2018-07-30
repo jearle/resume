@@ -18,7 +18,17 @@ __Tools__ Docker
 
 # Work History
 
-### OkCupid (06/2017 - Present)
+### LittleBigBerry (Consulting)
+
+_Morgan Stanley_ (03/2018 - Present)
+
+__React, Redux, Mobx, Node.js__
+
++ Built an internal admistrative tool for handling headcount.
+
++ Building an internal administrative tool for handling headcount budgets.
+
+### OkCupid (06/2017 - 01/2018)
 
 _Senior Engineer_
 
