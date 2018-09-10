@@ -6,7 +6,7 @@ _Polyglot software developer with experience building full stack web application
 
 ***
 
-__Languages__ JavaScript (ES6/JSX), Swift, Objective-C
+__Languages__ JavaScript (ES2017/JSX), Swift, Objective-C
 
 __Frameworks__ React, React Native, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babel, Node.js, Express, Mocha, Chai
 
@@ -24,9 +24,13 @@ _Morgan Stanley_ (03/2018 - Present)
 
 __React, Redux, Mobx, Node.js__
 
-+ Built an internal admistrative tool for handling headcount.
++ Building Morgan Stanley Budget Administration tool.
 
-+ Building an internal administrative tool for handling headcount budgets.
++ Built Morgan Stanley Headcount Administration tool.
+
++ Maintain existing Cross Desk data pipeline and visualization tool.
+
++ Manage a team of 3 engineers.
 
 ### OkCupid (06/2017 - 01/2018)
 
