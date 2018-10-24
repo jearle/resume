@@ -8,7 +8,7 @@ _Polyglot software developer with experience building full stack web application
 
 __Languages__ JavaScript (ES2017/JSX), Swift, Objective-C
 
-__Frameworks__ React, React Native, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babel, Node.js, Express, Mocha, Chai
+__Frameworks__ React, React Native, Node.js, Mobx, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babe, Express, Mocha, Chai
 
 __Databases__ PostgreSQL, Firebase
 
