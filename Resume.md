@@ -4,17 +4,17 @@ NYC | earle.jesse@gmail.com | (908) 399 - 1635
 
 _Polyglot software developer with experience building full stack web applications and native mobile applications._
 
-***
+---
 
-__Languages__ JavaScript (ES2017/JSX), Swift, Objective-C
+**Languages** JavaScript (ES2019/JSX/TypeScript), Swift, Objective-C
 
-__Frameworks__ React, React Native, Node.js, Mobx, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babe, Express, Mocha, Chai
+**Frameworks** React, React Native, Node.js, Mobx, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babe, Express, Mocha, Chai
 
-__Databases__ PostgreSQL, Firebase
+**Databases** PostgreSQL, Firebase
 
-__Tools__ Docker
+**Tools** Babel, Webpack, Docker, K8s
 
-***
+---
 
 # Work History
 
@@ -22,126 +22,130 @@ __Tools__ Docker
 
 _Morgan Stanley_ (03/2018 - Present)
 
-__React, Redux, Mobx, Node.js__
+**React, Redux, Mobx, Node.js**
 
-+ Building Morgan Stanley Budget Administration tool.
+- Building Morgan Stanley Budget Administration tool.
 
-+ Built Morgan Stanley Headcount Administration tool.
+- Built Morgan Stanley Headcount Administration tool.
 
-+ Maintain existing Cross Desk data pipeline and visualization tool.
+- Transitioned Cross Desk Administration Angular.js application to a modern React application, module by module, until Angular.js could be fully removed.
 
-+ Manage a team of 3 engineers.
+- Refactored existing Cross Desk Administration tool, from a grunt based concat build to a modern Webpack, ES2019, Babel pipeline.
+
+- Maintained existing Cross Desk Administration tool.
+
+- Manage a team of 3 engineers.
 
 ### OkCupid (06/2017 - 01/2018)
 
 _Senior Engineer_
 
-__React, Redux Thunk, Node.js, Sass, Pub, Docker__
+**React, Redux Thunk, Node.js, Sass, Pub, Docker**
 
-+ Built administrative web portal for moderators to view fake profiles and abusive messages between users.
+- Built administrative web portal for moderators to view fake profiles and abusive messages between users.
 
-+ Built server side rendering service for React applications.
+- Built server side rendering service for React applications.
 
-+ Built payment frontend/integration with backend API.
+- Built payment frontend/integration with backend API.
 
-***
+---
 
 ### Swett/Pineaapl.io (08/2015 - 12/2017)
 
 _Co-Founder/Developer_
 
-__Swift, OAuth2.0, Node.js, Express, Sequelize, Docker, PostgreSQL, Estimote__
+**Swift, OAuth2.0, Node.js, Express, Sequelize, Docker, PostgreSQL, Estimote**
 
-+ Built an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
+- Built an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
 
-__Firebase, React, Redux, Redux Sagas, Reselect, Styled Components, React Router, React Native, Chart.js, Docker__
+**Firebase, React, Redux, Redux Sagas, Reselect, Styled Components, React Router, React Native, Chart.js, Docker**
 
-+ Built analytics system that gathered feedback from customers at checkout on various metrics such as service/speed/quality in real time.
+- Built analytics system that gathered feedback from customers at checkout on various metrics such as service/speed/quality in real time.
 
-+ Built dashboard for analyzing and displaying gathered customer ratings.  The dashboard provided visuals for hourly, daily, weekly, and monthly breakdowns of rating to pinpoint problematic locations and hours all in real time.
+- Built dashboard for analyzing and displaying gathered customer ratings. The dashboard provided visuals for hourly, daily, weekly, and monthly breakdowns of rating to pinpoint problematic locations and hours all in real time.
 
-***
+---
 
 ### Yieldmo (02/2016 - 05/2017)
 
 _Senior Software Engineer_
 
-__React, React Router, Redux, Docker, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0__
+**React, React Router, Redux, Docker, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0**
 
-+ Built internal fullstack web application using Node.js/GraphQL and React/Redux to manage and generate ad creatives that are deployed on Google's DFP (Double Click for Publishers).
+- Built internal fullstack web application using Node.js/GraphQL and React/Redux to manage and generate ad creatives that are deployed on Google's DFP (Double Click for Publishers).
 
-***
+---
 
 ### MallHawk, Inc (09/2014 - 09/2015)
 
 _Senior Frontend Software Engineer_
 
-__ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit__
+**ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit**
 
-+ Built version 1 of I Wanna, a location based application that suggests where to go and offers discounts at participating vendors along the way.
+- Built version 1 of I Wanna, a location based application that suggests where to go and offers discounts at participating vendors along the way.
 
-__Ember, Ember CLI__
+**Ember, Ember CLI**
 
-+ Built version 1 of MallHawk.  A marketplace for local vendors to compete with online retailers in an automated reverse auction.
+- Built version 1 of MallHawk. A marketplace for local vendors to compete with online retailers in an automated reverse auction.
 
-***
+---
 
 ### Consulting (03/2014 - 09/2014)
 
 _High5Games_
 
-__AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap__
+**AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap**
 
-+ Built API for filtering, sorting, and searching game data.
-+ Built API driven web UI for filtering, sorting and searching game data.
-+ Built UI framework for serving ads.
+- Built API for filtering, sorting, and searching game data.
+- Built API driven web UI for filtering, sorting and searching game data.
+- Built UI framework for serving ads.
 
-***
+---
 
 ### Shopbeam (03/2013 - 03/2014)
 
 _Senior Software Developer_
 
-__AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis__
+**AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis**
 
-+ Built infinite scrolling dashboard for content publishers.
-+ Built AWS S3 Node.js module for streaming and storing images on S3.
+- Built infinite scrolling dashboard for content publishers.
+- Built AWS S3 Node.js module for streaming and storing images on S3.
 
-***
+---
 
 ### ICC Lowe Thermal (03/2011 - 09/2012)
 
 _Senior Software Developer_
 
-__Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JSON, MySQL__
+**Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JSON, MySQL**
 
-+ Built multiple content dissemination playlist iOS application using Cocoa and MonoTouch.
+- Built multiple content dissemination playlist iOS application using Cocoa and MonoTouch.
 
-+ Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
+- Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
 
-+ Built multiple websites and e-detailers.
+- Built multiple websites and e-detailers.
 
-***
+---
 
 ### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
 
 _Software Developer_
 
-__Dojo, Java, SpringMVC, Oracle__
+**Dojo, Java, SpringMVC, Oracle**
 
-+ Built Rutgers' frontend Undergraduate Admission application.
+- Built Rutgers' frontend Undergraduate Admission application.
 
-***
+---
 
 ### Chromecell (09/2009 - 03/2011)
 
 _Programmer_
 
-__Python, wxPython, COM__
+**Python, wxPython, COM**
 
-+ Built cell line lineage tracker for the robotics department.
+- Built cell line lineage tracker for the robotics department.
 
-***
+---
 
 # Education
 
