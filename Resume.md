@@ -6,31 +6,35 @@ _Polyglot software developer with experience building full stack web application
 
 ---
 
-**Languages** JavaScript (ES2019/JSX/TypeScript), Swift, Objective-C
+**Languages** TypeScript, JavaScript (ESNext/JSX), Swift, Objective-C
 
 **Frameworks** React, React Native, Node.js, Mobx, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babe, Express, Mocha, Chai
 
 **Databases** PostgreSQL, Firebase
 
-**Tools** Babel, Webpack, Docker, K8s
+**Tools** Create React App, Babel, Webpack, Docker, K8s, ELK+, AWS
 
 ---
 
 # Work History
 
-### LittleBigBerry (Consulting)
+### Morgan Stanley
 
-_Morgan Stanley_ (03/2018 - Present)
+_Lead JS Engineer - LittleBigBerry Consulting_ (03/2018 - Present)
 
 **React, Redux, Mobx, Node.js**
 
-- Building Morgan Stanley Budget Administration tool.
+- Built Morgan Stanley Finance Email Builder/Scheduler Dashboard.
 
-- Built Morgan Stanley Headcount Administration tool.
+- Built Morgan Stanley Real Time Finance Dashboard.
+
+- Built Morgan Stanley Budget Dashboard.
+
+- Built Morgan Stanley Headcount Dashboard.
 
 - Transitioned Cross Desk Administration Angular.js application to a modern React application, module by module, until Angular.js could be fully removed.
 
-- Refactored existing Cross Desk Administration tool, from a grunt based concat build to a modern Webpack, ES2019, Babel pipeline.
+- Refactored existing Cross Desk Dashboard, from a grunt based concat build to a modern Webpack, ESNext, Babel pipeline.
 
 - Maintained existing Cross Desk Administration tool.
 
