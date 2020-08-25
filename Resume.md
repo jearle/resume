@@ -6,13 +6,13 @@ _Polyglot software developer with experience building full stack web application
 
 ---
 
-**Languages** TypeScript, JavaScript (ESNext/JSX), Swift, Objective-C
+**Frameworks/Libraries** React, React Hooks, React Native, Redux, Node.js, Express, Jest, Angular
 
-**Frameworks** React, React Native, Node.js, Mobx, Redux, Styled Components, GraphQL, OAuth2.0, Webpack, Babe, Express, Mocha, Chai
+**Languages** TypeScript, Javascript (ESNext), Objective-C, Swift
 
-**Databases** PostgreSQL, Firebase
+**Databases** PostgreSQL
 
-**Tools** Create React App, Babel, Webpack, Docker, K8s, ELK+, AWS
+**Tools** Create React App, TSC, Babel, Webpack, Docker, Lerna, Yarn
 
 ---
 
@@ -22,23 +22,25 @@ _Polyglot software developer with experience building full stack web application
 
 _Lead JS Engineer - LittleBigBerry Consulting_ (03/2018 - Present)
 
-**React, Redux, Mobx, Node.js**
+**React, React Hooks, Express, Node.js**
 
-- Built Morgan Stanley Finance Email Builder/Scheduler Dashboard.
+- Built Fixed Income Finance Email Builder/Scheduler Dashboard architecture, UI and APIs.
 
-- Built Morgan Stanley Real Time Finance Dashboard.
+- Built Fixed Income Real Time Finance Dashboard architecture, UI and APIs.
 
-- Built Morgan Stanley Budget Dashboard.
+- Built Fixed Income Budget Dashboard architecture, UI and APIs.
 
-- Built Morgan Stanley Headcount Dashboard.
+- Built Fixed Income Headcount Dashboard architecture, UI and APIs.
+
+- Manage a team of 3 engineers (including myself).
+
+- Interfaced with and translated specs from Fixed Income analysts into realtime UIs and APIs.
 
 - Transitioned Cross Desk Administration Angular.js application to a modern React application, module by module, until Angular.js could be fully removed.
 
 - Refactored existing Cross Desk Dashboard, from a grunt based concat build to a modern Webpack, ESNext, Babel pipeline.
 
 - Maintained existing Cross Desk Administration tool.
-
-- Manage a team of 3 engineers.
 
 ### OkCupid (06/2017 - 01/2018)
 
