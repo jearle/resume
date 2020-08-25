@@ -18,9 +18,9 @@ _Polyglot software developer with experience building full stack web application
 
 # Work History
 
-### Morgan Stanley
+### Morgan Stanley (03/2018 - Present)
 
-_Lead JS Engineer - LittleBigBerry Consulting_ (03/2018 - Present)
+_Lead JS Engineer - LittleBigBerry Consulting_
 
 **React, React Hooks, Express, Node.js**
 
