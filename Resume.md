@@ -2,17 +2,17 @@
 
 NYC | earle.jesse@gmail.com | (908) 399 - 1635
 
-_Polyglot software developer with experience building full stack web applications and native mobile applications._
+_Polyglot software developer experienced in building full stack data intensive web and native applications._
 
 ---
 
-**Frameworks/Libraries** React, React Hooks, React Native, Redux, Node.js, Express, Jest, Angular
+**Frameworks/Libraries** React, React Hooks, React Native, Redux, Node.js, Express, Angular, Django
 
-**Languages** TypeScript, Javascript (ESNext), Objective-C, Swift
+**Languages** TypeScript, Javascript (ESNext), Python, Objective-C, Swift
 
-**Databases** PostgreSQL
+**Stores** PostgreSQL, Redis, ElasticSearch
 
-**Tools** Create React App, TSC, Babel, Webpack, Docker, Lerna, Yarn
+**Tools** TSC, Jest, Babel, Webpack, Docker, Lerna, Yarn
 
 ---
 
@@ -20,11 +20,9 @@ _Polyglot software developer with experience building full stack web application
 
 ### Morgan Stanley (03/2018 - Present)
 
-_Lead JS Engineer - LittleBigBerry Consulting_
+_Lead Engineer - LittleBigBerry Consulting_
 
 **React, React Hooks, Express, Node.js**
-
-- Built Fixed Income Finance Email Builder/Scheduler Dashboard architecture, UI and APIs.
 
 - Built Fixed Income Real Time Finance Dashboard architecture, UI and APIs.
 
@@ -32,15 +30,19 @@ _Lead JS Engineer - LittleBigBerry Consulting_
 
 - Built Fixed Income Headcount Dashboard architecture, UI and APIs.
 
-- Manage a team of 3 engineers (including myself).
-
-- Interfaced with and translated specs from Fixed Income analysts into realtime UIs and APIs.
+- Transitioned API architecture to a modern Node.js/Express application for building/aggregating user friendly APIs, while leveraging existing KDB+/Q for real-time in memory stream processing of large financial datasets.
 
 - Transitioned Cross Desk Administration Angular.js application to a modern React application, module by module, until Angular.js could be fully removed.
+
+- Interfaced with and translated specs from Fixed Income analysts into realtime UIs and APIs.
 
 - Refactored existing Cross Desk Dashboard, from a grunt based concat build to a modern Webpack, ESNext, Babel pipeline.
 
 - Maintained existing Cross Desk Administration tool.
+
+- Built Fixed Income Finance Email Builder/Scheduler Dashboard architecture, UI and APIs.
+
+- Manage a team of 2 engineers.
 
 ### OkCupid (06/2017 - 01/2018)
 
