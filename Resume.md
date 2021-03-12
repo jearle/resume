@@ -18,7 +18,7 @@ _Polyglot software developer experienced in building full stack data intensive w
 
 # Work History
 
-### Morgan Stanley (03/2018 - Present)
+### Morgan Stanley (03/2018 - 08/2020)
 
 _Lead Engineer - LittleBigBerry Consulting_
 
