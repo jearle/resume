@@ -10,13 +10,39 @@ _Polyglot software developer experienced in building full stack data intensive w
 
 **Languages** TypeScript, Javascript (ESNext), Python, Objective-C, Swift
 
-**Stores** PostgreSQL, Redis, ElasticSearch
+**Stores** MSSQL, Snowflake, PostgreSQL, Redis, Elasticsearch
 
 **Tools** TSC, Jest, Babel, Webpack, Docker, Lerna, Yarn
 
 ---
 
 # Work History
+
+### Real Capital Analytics (10/2020 - Present)
+
+_Architect_
+
+**TypeScript, React, Express, Node.js, MSSQL, Elasticsearch, AWS, Snowflake**
+
+- Built external client facing real estate pipeline REST API from MSSQL and Elasticsearch.
+
+- Built external client facing React app using the real estate pipeline REST API.
+
+- Built AWS Cognito authentication service in Node.js.
+
+- Building real estate data pipeline from MSSQL to Snowflake.
+
+---
+
+### ExodusPoint (07/2021 - Present)
+
+_Consultant - LittleBigBerry Consulting_
+
+**TypeScript, React, Node.js, MSSQL**
+
+- Building a calendar event API and UI.
+
+---
 
 ### Morgan Stanley (03/2018 - 08/2020)
 
