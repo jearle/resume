@@ -18,7 +18,21 @@ _Polyglot software developer experienced in building full stack data intensive w
 
 # Work History
 
-### Real Capital Analytics (10/2020 - Present)
+### ExodusPoint (07/2021 - Present)
+
+_Consultant - LittleBigBerry Consulting_
+
+**Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL**
+
+- Built out our monorepo architecuture and addressed concerns around ESM/CJS compatibility, fast compilation, caching and version management both inside and outside of the monorepo.
+
+- Built bonus allocation API and application.
+
+- Built calendar event API and UI.
+
+---
+
+### MSCI Inc. (10/2020 - 11/2023)
 
 _Architect_
 
@@ -31,16 +45,6 @@ _Architect_
 - Built AWS Cognito authentication service in Node.js.
 
 - Building real estate data pipeline from MSSQL to Snowflake.
-
----
-
-### ExodusPoint (07/2021 - Present)
-
-_Consultant - LittleBigBerry Consulting_
-
-**TypeScript, React, Node.js, MSSQL**
-
-- Building a calendar event API and UI.
 
 ---
 
@@ -69,6 +73,8 @@ _Lead Engineer - LittleBigBerry Consulting_
 - Built Fixed Income Finance Email Builder/Scheduler Dashboard architecture, UI and APIs.
 
 - Manage a team of 2 engineers.
+
+---
 
 ### OkCupid (06/2017 - 01/2018)
 
@@ -131,7 +137,9 @@ _High5Games_
 **AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap**
 
 - Built API for filtering, sorting, and searching game data.
+
 - Built API driven web UI for filtering, sorting and searching game data.
+
 - Built UI framework for serving ads.
 
 ---
