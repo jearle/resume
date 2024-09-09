@@ -22,7 +22,9 @@ _Polyglot software developer experienced in building full stack data intensive w
 
 _Consultant - LittleBigBerry Consulting_
 
-**Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL**
+**Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL, Ant Design**
+
+- Building a dashboard for various options (No-Touch, Double No-Touch, etc) based on user inputs (expiry, currency pair, barriers, etc) that calculates PV based on market conditions and financial models.
 
 - Built out our monorepo architecuture and addressed concerns around ESM/CJS compatibility, fast compilation, caching and version management both inside and outside of the monorepo.
 
