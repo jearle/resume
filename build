@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-pandoc -o Resume.pdf Resume.md 
-pandoc -o Resume.docx Resume.md 
+pandoc -o Resume-Jesse-Earle.pdf Resume-Jesse-Earle.md 
+pandoc -o Resume-Jesse-Earle.docx Resume-Jesse-Earle.md 
