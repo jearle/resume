@@ -24,13 +24,17 @@ _Consultant - LittleBigBerry Consulting_
 
 **Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL, Ant Design**
 
-- Building a dashboard for pricing various options (No-Touch, Double No-Touch, etc.) based on user inputs (expiry, currency pair, barriers, etc.), with real-time PV calculations using market conditions and financial models.
+- Builing a street orders dashboard to track and display real-time status and execution details of trades routed to external brokers, improving visibility for trading and operations teams.
 
-- Built out our monorepo architecuture and addressed concerns around ESM/CJS compatibility, fast compilation, caching and version management both inside and outside of the monorepo.
+- Built a stress-testing dashboard that applies historical Black Swan volatility scenarios to live portfolio data, enabling traders and risk managers to perform forward-looking risk analysis.
 
-- Built bonus allocation API and application.
+- Developed an options pricing dashboard supporting No-Touch, Double No-Touch, and other exotic structures, with real-time PV calculations based on user-defined parameters and market conditions.
 
-- Built calendar event API and UI.
+- Architected and implemented a monorepo strategy, resolving ESM/CJS compatibility, accelerating build times via caching, and streamlining version management across internal and external packages.
+
+- Designed and implemented a bonus allocation API and application to streamline compensation workflows.
+
+- Built calendar event APIs and UIs to support scheduling and integration with internal tools.
 
 ---
 
@@ -194,3 +198,4 @@ _Programmer_
 # Education
 
 _Rutgers, The State University of New Jersey, Dropped Out (2006-2010)_
+
