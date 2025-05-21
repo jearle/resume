@@ -24,7 +24,7 @@ _Consultant - LittleBigBerry Consulting_
 
 **Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL, Ant Design**
 
-- Builing a street orders dashboard to track and display real-time status and execution details of trades routed to external brokers, improving visibility for trading and operations teams.
+- Building a street orders dashboard to track and display real-time status and execution details of trades routed to external brokers, improving visibility for trading and operations teams.
 
 - Built a stress-testing dashboard that applies historical Black Swan volatility scenarios to live portfolio data, enabling traders and risk managers to perform forward-looking risk analysis.
 
