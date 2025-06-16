@@ -6,13 +6,13 @@ _Polyglot software developer experienced in building full stack data intensive w
 
 ---
 
-**Frameworks/Libraries** React, React Hooks, React Native, Redux, Node.js, Express, Angular, Django
+**Frameworks/Libraries** React, Jotai, Zustand, Node.js, Express
 
-**Languages** TypeScript, Javascript (ESNext), Python, Objective-C, Swift
+**Languages** TypeScript, Javascript, Go
 
-**Stores** MSSQL, Snowflake, PostgreSQL, Redis, Elasticsearch
+**Stores** PostgreSQL, MSSQL, Redis, Elasticsearch
 
-**Tools** TSC, Jest, Babel, Webpack, Docker, Lerna, Yarn
+**Tools** TSC, Vite, SWC, PNPM, Bun, Yarn, Docker, Jest, Babel, Webpack, Lerna
 
 ---
 
@@ -198,4 +198,3 @@ _Programmer_
 # Education
 
 _Rutgers, The State University of New Jersey, Dropped Out (2006-2010)_
-
