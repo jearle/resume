@@ -1,3 +1,12 @@
+---
+name: "Jesse Earle"
+email: "earle.jesse@gmail.com"
+phone: "(908) 399-1635"
+website: "jesseeearle.com"
+linkedin: "jesse-earle"
+github: "jearle"
+---
+
 # Jesse Earle
 
 Boston | earle.jesse@gmail.com | (908) 399 - 1635
