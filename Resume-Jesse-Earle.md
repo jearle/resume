@@ -1,200 +1,116 @@
 # Jesse Earle
 
-NYC | earle.jesse@gmail.com | (908) 399 - 1635
+Boston | earle.jesse@gmail.com | (908) 399 - 1635
 
-_Polyglot software developer experienced in building full stack data intensive web and native applications._
+Fullstack developer with 15+ years building scalable web applications and data-driven systems using React, TypeScript, and modern JavaScript.
 
----
+## Leadership and Technical Proficiency
 
-**Frameworks/Libraries** React, Jotai, Zustand, Node.js, Express
+| **Leadership & Strategy**   | **Architecture & Technologies**     | **Core Development**                        |
+| :-------------------------- | :---------------------------------- | :------------------------------------------ |
+| Team Leadership & Mentoring | System Design & Architecture        | **Frameworks**: React, Node.js, Express     |
+| Technical Vision & Roadmap  | Cloud Transformation (AWS)          | **Languages**: TypeScript, JavaScript, Go   |
+| Stakeholder Collaboration   | API Design (REST, gRPC)             | **Databases**: PostgreSQL, MSSQL, Redis     |
+| Budget & Planning Support   | Microservices & Distributed Systems | **Build Tools**: Docker, Vite, SWC, Webpack |
+| Hiring & Talent Development | CI/CD & DevSecOps                   | **Testing**: Jest, Vitest                   |
+| Legacy System Migration     | Data Pipelines & Integration        | **Package Mgmt**: Yarn, Bun, PNPM           |
+| Agile Project Management    | Monorepo Strategy (NX, Lerna)       |                                             |
 
-**Languages** TypeScript, Javascript, Go
+## Work History
 
-**Stores** PostgreSQL, MSSQL, Redis, Elasticsearch
+### Senior Consultant | ExodusPoint (07/2021 – Present)
 
-**Tools** TSC, Vite, SWC, PNPM, Bun, Yarn, Docker, Jest, Babel, Webpack, Lerna
+- Built real-time street orders dashboard monitoring trade execution across brokers, improving trading operations visibility.
+- Created stress-testing platform applying historical Black Swan volatility to live portfolio data for forward-looking risk assessments.
+- Developed real-time options pricing dashboard for exotic derivatives with PV calculations based on live market data and user-defined barriers.
+- Architected team-wide monorepo strategy using NX, SWC, and PNPM; resolved ESM/CJS conflicts and reduced CI build times by 50%+.
+- Delivered bonus allocation API and frontend automating year-end compensation workflows.
+- Built calendar event APIs and UIs supporting scheduling integration across internal tools.
 
----
+_TypeScript, React, Node.js, PostgreSQL, Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, Ant Design_
 
-# Work History
+### Vice President/Architect | MSCI Inc. (10/2020 - 11/2023)
 
-### ExodusPoint (07/2021 - Present)
+- Architected end-to-end real estate data platform serving external clients through REST APIs, integrating MSSQL and Elasticsearch with custom React frontend.
+- Built scalable data pipeline migrating real estate data from MSSQL to Snowflake, enabling enhanced client analytics.
+- Implemented authentication/authorization system using AWS Cognito and Node.js, securing multi-application client access.
+- Designed modern monorepo architecture with Yarn workspaces and Vite, enabling React package code sharing while maintaining AngularJS/Webpack compatibility.
+- Established feature management strategy using LaunchDarkly for controlled rollouts and A/B testing.
 
-_Consultant - LittleBigBerry Consulting_
+_TypeScript, React, Express, Node.js, MSSQL, Elasticsearch, AWS Cognito, Snowflake, LaunchDarkly, Yarn, Vite, AngularJS, Webpack_
 
-**Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, TypeScript, React, Node.js, PostgreSQL, Ant Design**
+### Senior Consultant | Morgan Stanley (03/2018 - 08/2020)
 
-- Building a street orders dashboard to track and display real-time status and execution details of trades routed to external brokers, improving visibility for trading and operations teams.
-
-- Built a stress-testing dashboard that applies historical Black Swan volatility scenarios to live portfolio data, enabling traders and risk managers to perform forward-looking risk analysis.
-
-- Developed an options pricing dashboard supporting No-Touch, Double No-Touch, and other exotic structures, with real-time PV calculations based on user-defined parameters and market conditions.
-
-- Architected and implemented a monorepo strategy, resolving ESM/CJS compatibility, accelerating build times via caching, and streamlining version management across internal and external packages.
-
-- Designed and implemented a bonus allocation API and application to streamline compensation workflows.
-
-- Built calendar event APIs and UIs to support scheduling and integration with internal tools.
-
----
-
-### MSCI Inc. (10/2020 - 11/2023)
-
-_Architect_
-
-**TypeScript, React, Express, Node.js, MSSQL, Elasticsearch, AWS, Snowflake**
-
-- Built external client facing real estate pipeline REST API from MSSQL and Elasticsearch.
-
-- Built external client facing React app using the real estate pipeline REST API.
-
-- Built AWS Cognito authentication service in Node.js.
-
-- Building real estate data pipeline from MSSQL to Snowflake.
-
----
-
-### Morgan Stanley (03/2018 - 08/2020)
-
-_Lead Engineer - LittleBigBerry Consulting_
-
-**React, React Hooks, Express, Node.js**
-
-- Built Fixed Income Real Time Finance Dashboard architecture, UI and APIs.
-
-- Built Fixed Income Budget Dashboard architecture, UI and APIs.
-
-- Built Fixed Income Headcount Dashboard architecture, UI and APIs.
-
-- Transitioned API architecture to a modern Node.js/Express application for building/aggregating user friendly APIs, while leveraging existing KDB+/Q for real-time in memory stream processing of large financial datasets.
-
-- Transitioned Cross Desk Administration Angular.js application to a modern React application, module by module, until Angular.js could be fully removed.
-
-- Interfaced with and translated specs from Fixed Income analysts into realtime UIs and APIs.
-
-- Refactored existing Cross Desk Dashboard, from a grunt based concat build to a modern Webpack, ESNext, Babel pipeline.
-
-- Maintained existing Cross Desk Administration tool.
-
+- Built Fixed Income Real Time Finance, Budget, and Headcount Dashboard architectures, UIs and APIs.
+- Transitioned API architecture to modern Node.js/Express for user-friendly APIs while leveraging existing KDB+/Q for real-time stream processing of large financial datasets.
+- Migrated Cross Desk Administration from Angular.js to React module by module until Angular.js removal.
+- Translated Fixed Income analyst specs into realtime UIs and APIs.
+- Modernized Cross Desk Dashboard build from grunt-based concat to Webpack/ESNext/Babel pipeline.
 - Built Fixed Income Finance Email Builder/Scheduler Dashboard architecture, UI and APIs.
 
-- Manage a team of 2 engineers.
+_React, React Hooks, Express, Node.js_
 
----
+### Senior Engineer | OkCupid (06/2017 – 01/2018)
 
-### OkCupid (06/2017 - 01/2018)
+- Built administrative portal for moderators to review fake profiles and abusive messages.
+- Created server-side rendering service for React applications.
+- Implemented payment frontend with backend API integration.
 
-_Senior Engineer_
+_React, Redux Thunk, Node.js, Sass, Pub, Docker_
 
-**React, Redux Thunk, Node.js, Sass, Pub, Docker**
+### Co-Founder | Swett/Pineaapl.io (08/2015 – 12/2017)
 
-- Built administrative web portal for moderators to view fake profiles and abusive messages between users.
+- Built automated exercise tracking application linking hardware beacons with exercisers to track treadmill/elliptical distances and free weight repetitions.
+- Created analytics system gathering real-time customer feedback on service/speed/quality metrics at checkout.
+- Developed dashboard analyzing customer ratings with hourly, daily, weekly, and monthly breakdowns to identify problematic locations and timeframes.
 
-- Built server side rendering service for React applications.
+_Swift, OAuth2.0, Node.js, Express, Sequelize, Docker, PostgreSQL, Estimote, Firebase, React, Redux, Redux Sagas, Reselect, Styled Components, React Router, React Native, Chart.js_
 
-- Built payment frontend/integration with backend API.
+### Senior Software Engineer | Yieldmo (02/2016 – 05/2017)
 
----
+- Built internal fullstack application using Node.js/GraphQL and React/Redux to manage and generate ad creatives deployed on Google's DFP.
 
-### Swett/Pineaapl.io (08/2015 - 12/2017)
+_React, React Router, Redux, Docker, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0_
 
-_Co-Founder/Developer_
+### Senior Frontend Software Engineer | MallHawk, Inc (09/2014 – 09/2015)
 
-**Swift, OAuth2.0, Node.js, Express, Sequelize, Docker, PostgreSQL, Estimote**
+- Built I Wanna v1, a location-based app suggesting destinations with vendor discounts.
+- Built MallHawk v1, a marketplace for local vendors competing with online retailers via automated reverse auction.
 
-- Built an automated exercise tracking application and gym analytics tool that links small hardware beacons with an exerciser and begins automatically tracking treadmill/elliptical distances and free weight repetitions.
+_ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit, Ember, Ember CLI_
 
-**Firebase, React, Redux, Redux Sagas, Reselect, Styled Components, React Router, React Native, Chart.js, Docker**
+### Consultant | High5Games (03/2014 – 09/2014)
 
-- Built analytics system that gathered feedback from customers at checkout on various metrics such as service/speed/quality in real time.
+- Built UI/API for filtering, sorting, and searching game data.
 
-- Built dashboard for analyzing and displaying gathered customer ratings. The dashboard provided visuals for hourly, daily, weekly, and monthly breakdowns of rating to pinpoint problematic locations and hours all in real time.
+_AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap_
 
----
-
-### Yieldmo (02/2016 - 05/2017)
-
-_Senior Software Engineer_
-
-**React, React Router, Redux, Docker, Babel, Webpack, GraphQL, Mocha, Chai, Enzyme, Node.js, Express, ESLint, Karma, OAuth2.0**
-
-- Built internal fullstack web application using Node.js/GraphQL and React/Redux to manage and generate ad creatives that are deployed on Google's DFP (Double Click for Publishers).
-
----
-
-### MallHawk, Inc (09/2014 - 09/2015)
-
-_Senior Frontend Software Engineer_
-
-**ObjectiveSugar, Lockbox, FBSDKCoreKit, FBSDKLoginKit, Adjust, AFNetworking, Alamofire, PromiseKit, OCMapper, RestKit**
-
-- Built version 1 of I Wanna, a location based application that suggests where to go and offers discounts at participating vendors along the way.
-
-**Ember, Ember CLI**
-
-- Built version 1 of MallHawk. A marketplace for local vendors to compete with online retailers in an automated reverse auction.
-
----
-
-### Consulting (03/2014 - 09/2014)
-
-_High5Games_
-
-**AngularJS, Node.js, Mocha, Chai, Gulp, Browserify, WordPress, Bootstrap**
-
-- Built API for filtering, sorting, and searching game data.
-
-- Built API driven web UI for filtering, sorting and searching game data.
-
-- Built UI framework for serving ads.
-
----
-
-### Shopbeam (03/2013 - 03/2014)
-
-_Senior Software Developer_
-
-**AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis**
+### Senior Software Developer | Shopbeam (03/2013 – 03/2014)
 
 - Built infinite scrolling dashboard for content publishers.
-- Built AWS S3 Node.js module for streaming and storing images on S3.
+- Created AWS S3 Node.js module for streaming and storing images.
 
----
+_AngularJS, Browserify, Node.JS, Express, Stylus, Jade, Sequelize, Postgres, Redis_
 
-### ICC Lowe Thermal (03/2011 - 09/2012)
+### Senior Software Developer | ICC Lowe Thermal (03/2011 – 09/2012)
 
-_Senior Software Developer_
+- Built 4-player touch table game for Microsoft Surface (PixelSense).
+- Developed multiple websites and e-detailers.
 
-**Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JSON, MySQL**
+_Objective-C, Ruby, C#, MonoTouch, Surface 2.0 SDK, Express, RoR, CSS, HAML, JSON, MySQL_
 
-- Built multiple content dissemination playlist iOS application using Cocoa and MonoTouch.
+### Software Developer | Enterprise Systems & Services, Rutgers University (03/2010 – 03/2011)
 
-- Built a 4 player touch table game for the Microsoft Surface (now called PixelSense).
+- Built Rutgers frontend Undergraduate Admission application.
 
-- Built multiple websites and e-detailers.
+_Dojo, Java, SpringMVC, Oracle_
 
----
+### Programmer | Chromecell (09/2009 – 03/2011)
 
-### Enterprise Systems & Services, Rutgers University (03/2010 - 03/2011)
+- Built cell line lineage tracker for robotics department.
 
-_Software Developer_
+_Python, wxPython, COM_
 
-**Dojo, Java, SpringMVC, Oracle**
+## Education
 
-- Built Rutgers' frontend Undergraduate Admission application.
-
----
-
-### Chromecell (09/2009 - 03/2011)
-
-_Programmer_
-
-**Python, wxPython, COM**
-
-- Built cell line lineage tracker for the robotics department.
-
----
-
-# Education
-
-_Rutgers, The State University of New Jersey, Dropped Out (2006-2010)_
+_Rutgers, The State University of New Jersey, Computer Science (2006–2010)_
