@@ -32,17 +32,27 @@ brew install --cask basictex
 
 ## Usage
 
-1. Edit your resume content in `resume.md`
+1. Edit your resume content in `Resume-Jesse-Earle.md`
 2. Run the build script:
-   - **macOS/Linux**: `./build.sh`
+   - **macOS/Linux**: `./build`
    - **Windows**: `.\build.bat`
 3. Find generated files in the current directory
 
+### Command-Line Options
+
+```bash
+./build -h
+Usage: ./build [--suffix SUFFIX] [--margin MARGIN]
+  --suffix   set the suffix value
+  --margin   set the margin value
+  -h|--help  show this help
+```
+
 ## Output Formats
 
-- `resume.pdf` - Professional PDF format
-- `resume.html` - Web-friendly HTML
-- `resume.docx` - Microsoft Word format
+- `Resume-Jesse-Earle.pdf` - Professional PDF format
+- `Resume-Jesse-Earle.html` - Web-friendly HTML
+- `Resume-Jesse-Earle.docx` - Microsoft Word format
 
 ## Troubleshooting
 

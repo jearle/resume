@@ -1,5 +1,56 @@
 #!/usr/bin/env bash
 
-pandoc -o Resume-Jesse-Earle.html Resume-Jesse-Earle.md
-pandoc -o Resume-Jesse-Earle.pdf Resume-Jesse-Earle.md -V geometry:margin=0.5in
-pandoc -o Resume-Jesse-Earle.docx Resume-Jesse-Earle.md -V geometry:margin=0.5in
+usage() {
+  cat <<EOF
+Usage: $0 [--suffix SUFFIX] [--margin MARGIN]
+  --suffix   set the suffix value
+  --margin   set the margin value
+  -h|--help  show this help
+EOF
+  exit 1
+}
+
+suffix=""
+margin="0.35in"
+
+# parse args
+while (( "$#" )); do
+  case "$1" in
+    --suffix)
+      [[ -n $2 ]] || usage
+      suffix="-$2"
+      shift 2
+      ;;
+    --margin)
+      [[ -n $2 ]] || usage
+      margin=$2
+      shift 2
+      ;;
+    -h|--help)
+      usage
+      ;;
+    *)
+      echo "Error: unknown option '$1'" >&2
+      usage
+      ;;
+  esac
+done
+
+if [ -f "Resume-Jesse-Earle.pdf" ]; then
+  echo "Resume PDF exists"
+fi
+
+resume_name="Resume-Jesse-Earle$suffix" 
+resume_md="$resume_name.md"
+resume_html="$resume_name.html"
+resume_pdf="$resume_name.pdf"
+resume_docx="$resume_name.docx"
+
+echo "generating $resume_html from $resume_md"
+echo "generating $resume_pdf from $resume_md"
+echo "generating $resume_docx from $resume_md"
+echo "with margin $margin"
+
+pandoc -o "$resume_html" $resume_md 
+pandoc -o "$resume_pdf" $resume_md -V geometry:margin=0.35in
+pandoc -o "$resume_docx" $resume_md -V geometry:margin=0.35in
