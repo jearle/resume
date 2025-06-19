@@ -79,6 +79,18 @@ _Swift, React Native, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Doc
 
 _React, Redux, GraphQL, Node.js, Express, Docker, Webpack, Mocha, Chai, Enzyme_
 
+### Consultant | Goldman Sachs (12/2015 – 02/2016)
+
+- Developed a firm-wide build tool for internal frontend JavaScript products.
+
+_JavaScript, Build Automation, Frontend Development_
+
+### Consultant | Shutterstock (09/2015 – 11/2015)
+
+- Built an internal PayPal Express Payment API for a Sinatra-based e-commerce payment gateway.
+
+_Ruby, Sinatra, API Development, PayPal API_
+
 ### Senior Frontend Software Engineer | MallHawk, Inc (09/2014 – 09/2015)
 
 - Built `I Wanna v1`, a location-based application suggesting destinations with vendor discounts.
