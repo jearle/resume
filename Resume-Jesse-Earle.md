@@ -9,7 +9,7 @@ github: "jearle"
 
 # Jesse Earle
 
-Boston | earle.jesse@gmail.com | (908) 399-1635!
+Boston | earle.jesse@gmail.com | (908) 399-1635 | linkedin.com/in/jesse-earle
 
 Senior Fullstack Engineer & Architect with 15+ years of experience architecting and building scalable, data-driven B2B SaaS platforms. Expert in TypeScript, React, and Node.js with a proven history of leading cloud transformations (AWS), implementing monorepo strategies, and delivering robust backend APIs (REST, gRPC).
 
@@ -23,7 +23,7 @@ Senior Fullstack Engineer & Architect with 15+ years of experience architecting 
 
 ## Professional Experience
 
-### Senior Consultant | ExodusPoint (07/2021 – Present)
+### Senior Consultant - Technology | ExodusPoint (07/2021 – Present)
 
 - Architected and delivered a real-time dashboard for monitoring trade executions, providing critical visibility for trading operations and improving risk assessment.
 - Drove team-wide adoption of a modern monorepo strategy using NX and PNPM, resulting in a >50% reduction in CI build times and resolving complex dependency conflicts.

@@ -9,7 +9,7 @@ github: "jearle"
 
 # Jesse Earle
 
-Boston | earle.jesse@gmail.com | (908) 399-1635!
+Boston | earle.jesse@gmail.com | (908) 399-1635 | linkedin.com/in/jesse-earle
 
 Fullstack Developer & Architect with 15+ years building scalable web applications and data-driven systems using React, TypeScript, and modern JavaScript.
 
@@ -27,7 +27,7 @@ Fullstack Developer & Architect with 15+ years building scalable web application
 
 ## Work History
 
-### Senior Consultant | ExodusPoint (07/2021 – Present)
+### Senior Consultant - Technology | ExodusPoint (07/2021 – Present)
 
 - Built real-time street orders dashboard to monitor trade execution across brokers, improving trading operations visibility.
 - Created a stress-testing platform that applied historical Black Swan volatility to live portfolio data for forward-looking risk assessments.
@@ -36,7 +36,7 @@ Fullstack Developer & Architect with 15+ years building scalable web application
 - Delivered a bonus allocation API and frontend to automate year-end compensation workflows.
 - Built calendar event APIs and UIs to support scheduling integration across internal tools.
 
-_TypeScript, React, Node.js, PostgreSQL, Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, Ant Design_
+_TypeScript, React, Node.js, PostgreSQL, @testing-library, Protobuf, gRPC, gRPC-Web, Vite, SWC, NX, PNPM, Ant Design_
 
 ### Vice President/Architect | MSCI Inc. (10/2020 - 11/2023)
 
