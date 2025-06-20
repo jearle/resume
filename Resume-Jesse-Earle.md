@@ -23,7 +23,7 @@ Senior Fullstack Engineer & Architect with 15+ years of experience architecting 
 
 ## Professional Experience
 
-### Senior Consultant - Technology | ExodusPoint (07/2021 – Present)
+### Senior Technology Consultant | ExodusPoint - Contract (07/2021 – Present)
 
 - Architected and delivered a real-time dashboard for monitoring trade executions, providing critical visibility for trading operations and improving risk assessment.
 - Drove team-wide adoption of a modern monorepo strategy using NX and PNPM, resulting in a >50% reduction in CI build times and resolving complex dependency conflicts.

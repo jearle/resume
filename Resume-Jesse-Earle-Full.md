@@ -27,7 +27,7 @@ Fullstack Developer & Architect with 15+ years building scalable web application
 
 ## Work History
 
-### Senior Consultant - Technology | ExodusPoint (07/2021 – Present)
+### Senior Technology Consultant | ExodusPoint - Contract (07/2021 – Present)
 
 - Built real-time street orders dashboard to monitor trade execution across brokers, improving trading operations visibility.
 - Created a stress-testing platform that applied historical Black Swan volatility to live portfolio data for forward-looking risk assessments.
