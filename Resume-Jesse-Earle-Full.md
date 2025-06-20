@@ -30,7 +30,7 @@ Fullstack Developer & Architect with 15+ years building scalable web application
 ### Senior Technology Consultant | ExodusPoint - Contract (07/2021 – Present)
 
 - Built real-time street orders dashboard to monitor trade execution across brokers, improving trading operations visibility.
-- Created a stress-testing platform that applied historical Black Swan volatility to live portfolio data for forward-looking risk assessments.
+- Created a stress-testing dashboard that applied historical Black Swan volatility to live portfolio data for forward-looking risk assessments.
 - Developed a real-time options pricing dashboard for exotic derivatives with PV calculations based on live market data and user-defined barriers.
 - Architected a team-wide monorepo strategy using NX, SWC, and PNPM, resolving ESM/CJS conflicts and reducing CI build times by over 50%.
 - Delivered a bonus allocation API and frontend to automate year-end compensation workflows.
@@ -40,6 +40,7 @@ _TypeScript, React, Node.js, PostgreSQL, @testing-library, Protobuf, gRPC, gRPC-
 
 ### Vice President/Architect | MSCI Inc. (10/2020 - 11/2023)
 
+- Architechted Climate Value-at-Risk dashboard integration, enabling institutional investors to quantify the financial impact of climate change on real estate using a React frontend, REST APIs, and a backend integrating MSSQL and Elasticsearch.
 - Architected an end-to-end real estate data platform serving external clients via REST APIs, integrating MSSQL and Elasticsearch with a custom React frontend.
 - Built a scalable data pipeline to migrate real estate data from MSSQL to Snowflake, enabling enhanced client analytics.
 - Implemented an authentication/authorization system using AWS Cognito and Node.js to secure multi-application client access.

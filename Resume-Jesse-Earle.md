@@ -19,7 +19,7 @@ Senior Fullstack Engineer & Architect with 15+ years of experience architecting 
 - Frameworks: React, Node.js, Express
 - Architecture: System Design, Microservices, REST & gRPC APIs, Monorepos
 - Databases: PostgreSQL, MSSQL, Redis, Elasticsearch
-- Cloud & DevOps: AWS (Cognito, etc.), Docker, CI/CD, Vite, SWC, Webpack, Yarn/PNPM
+- Cloud & DevOps: AWS, Docker, CI/CD, Vite, SWC, Webpack, Yarn/PNPM
 
 ## Professional Experience
 
@@ -34,7 +34,7 @@ _Tech: TypeScript, React, Node.js, PostgreSQL, Protobuf, gRPC, Vite, SWC, NX, PN
 
 ### Vice President / Architect | MSCI Inc. (10/2020 - 11/2023)
 
-- Led the architecture of an end-to-end B2B data platform, serving external clients via REST APIs and a custom React frontend.
+- Architechted Climate Value-at-Risk dashboard integration, enabling institutional investors to quantify the financial impact of climate change on real estate using a React frontend, REST APIs, and a backend integrating MSSQL and Elasticsearch.
 - Engineered a scalable data pipeline to migrate real estate data from MSSQL to Snowflake, enabling enhanced analytics for clients.
 - Implemented a secure, multi-application authentication and authorization system using AWS Cognito and Node.js.
 - Designed a monorepo architecture with Yarn workspaces and Vite, enabling code sharing between modern React packages and a legacy AngularJS application.
