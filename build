@@ -11,28 +11,30 @@ EOF
 }
 
 suffix=""
-margin="0.35in"
+margin="0.25in"
+font="Roboto Light"
+fontsize="9pt"  # <--- Defined here as lowercase
 
 # parse args
-while (( "$#" )); do
+while (("$#")); do
   case "$1" in
-    --suffix)
-      [[ -n $2 ]] || usage
-      suffix="-$2"
-      shift 2
-      ;;
-    --margin)
-      [[ -n $2 ]] || usage
-      margin=$2
-      shift 2
-      ;;
-    -h|--help)
-      usage
-      ;;
-    *)
-      echo "Error: unknown option '$1'" >&2
-      usage
-      ;;
+  --suffix)
+    [[ -n $2 ]] || usage
+    suffix="-$2"
+    shift 2
+    ;;
+  --margin)
+    [[ -n $2 ]] || usage
+    margin=$2
+    shift 2
+    ;;
+  -h | --help)
+    usage
+    ;;
+  *)
+    echo "Error: unknown option '$1'" >&2
+    usage
+    ;;
   esac
 done
 
@@ -40,17 +42,35 @@ if [ -f "Resume-Jesse-Earle.pdf" ]; then
   echo "Resume PDF exists"
 fi
 
-resume_name="Resume-Jesse-Earle$suffix" 
-resume_md="$resume_name.md"
+resume_name="Resume-Jesse-Earle$suffix"
+resume_tex_md="$resume_name.tex.md"
 resume_html="$resume_name.html"
 resume_pdf="$resume_name.pdf"
 resume_docx="$resume_name.docx"
 
-echo "generating $resume_html from $resume_md"
-echo "generating $resume_pdf from $resume_md"
-echo "generating $resume_docx from $resume_md"
+echo "generating $resume_html from $resume_tex_md"
+echo "generating $resume_pdf from $resume_tex_md"
 echo "with margin $margin"
+echo "with fontsize $fontsize"
 
-pandoc -o "$resume_html" $resume_md 
-pandoc -o "$resume_pdf" $resume_md -V geometry:margin=0.35in
-pandoc -o "$resume_docx" $resume_md -V geometry:margin=0.35in
+# HTML
+pandoc -o "$resume_html" "$resume_tex_md"
+
+# PDF
+pandoc -o "$resume_pdf" "$resume_tex_md" \
+  --pdf-engine=xelatex \
+  -H preamble.tex \
+  -V documentclass=extarticle \
+  -V geometry:margin=$margin \
+  -V mainfont="$font" \
+  -V mainfontoptions="BoldFont=Roboto Condensed Medium" \
+  -V fontsize=$fontsize \
+  -V colorlinks=true \
+  -V urlcolor=blue
+
+# Docx
+pandoc -o "$resume_docx" "$resume_tex_md" \
+  -H preamble.tex \
+  -V geometry:margin=$margin \
+  -V fontsize=$fontsize \
+  -V documentclass=extarticle
