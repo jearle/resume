@@ -1,61 +1,34 @@
-# Jesse Earle Resume Builder
+# Resume
 
-A tool for building professional resumes in multiple formats (PDF, HTML, DOCX) from a single source of truth Markdown document. This eliminates the need to maintain separate resume files and ensures consistency across all formats.
+Resume sources and generated outputs.
 
-## Features
+## Files
 
-- Single Markdown source file
-- Multiple output formats
-- Cross-platform support (macOS, Windows)
-- Automated build process
+- `Resume-Jesse-Earle.tex.md`: short version source
+- `Resume-Jesse-Earle-Full.tex.md`: full version source
+- `Resume-Jesse-Earle.{html,pdf,docx}`: short version outputs
+- `Resume-Jesse-Earle-Full.{html,pdf,docx}`: full version outputs
+- `build`: current bash build script
+- `build.ps1`: PowerShell build script
 
-## Prerequisites
+## Build
 
-### macOS
+Requirements for `build`:
 
-- [Homebrew](https://brew.sh/) package manager
-- [pandoc](https://pandoc.org/) document converter
-- BasicTeX (for LaTeX/PDF support)
+- `pandoc`
+- `xelatex`
+- `Roboto Light` and `Roboto Condensed Medium`
+- `preamble.tex` at the repo root
 
-```bash
-# Install dependencies
-brew install pandoc
-brew install --cask basictex
-# or alternatively: brew install --cask mactex (full LaTeX distribution)
-```
-
-### Windows
-
-- [pandoc](https://pandoc.org/installing.html#windows)
-- [MiKTeX](https://miktex.org/) (for PDF generation)
-- PowerShell or Command Prompt
-
-## Usage
-
-1. Edit your resume content in `Resume-Jesse-Earle.md`
-2. Run the build script:
-   - **macOS/Linux**: `./build`
-   - **Windows**: `.\build.bat`
-3. Find generated files in the current directory
-
-### Command-Line Options
+Examples:
 
 ```bash
-./build -h
-Usage: ./build [--suffix SUFFIX] [--margin MARGIN]
-  --suffix   set the suffix value
-  --margin   set the margin value
-  -h|--help  show this help
+./build
+./build --suffix Full
+./build --margin 0.35in
 ```
 
-## Output Formats
+## Notes
 
-- `Resume-Jesse-Earle.pdf` - Professional PDF format
-- `Resume-Jesse-Earle.html` - Web-friendly HTML
-- `Resume-Jesse-Earle.docx` - Microsoft Word format
-
-## Troubleshooting
-
-- **LaTeX errors**: Ensure BasicTeX/MiKTeX is properly installed
-- **Path issues**: Make sure pandoc is in your system PATH
-- **Permission denied**: Run `chmod +x build.sh` on macOS/Linux
+- `build` reads `Resume-Jesse-Earle[-SUFFIX].tex.md` and writes outputs in the repo root
+- `build.ps1` is present, but it still targets `Resume-Jesse-Earle[-SUFFIX].md`, not the current `*.tex.md` sources
