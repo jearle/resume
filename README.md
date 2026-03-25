@@ -2,6 +2,20 @@
 
 Resume sources and generated outputs.
 
+## Quick Start
+
+- Install `pandoc`, `xelatex`, `Roboto Light`, and `Roboto Condensed Medium`
+- Add `preamble.tex` at the repo root
+- Run one of these:
+
+```bash
+./build
+./build --suffix Full
+./build --margin 0.35in
+```
+
+- Outputs are written to the repo root as `.html`, `.pdf`, and `.docx`
+
 ## Files
 
 - `Resume-Jesse-Earle.tex.md`: short version source
